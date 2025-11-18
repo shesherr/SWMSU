@@ -1,0 +1,75 @@
+{
+  "build": "pyhd3eb1b0_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/noarch",
+  "constrains": [],
+  "depends": [
+    "python"
+  ],
+  "extracted_package_dir": "C:\\Users\\Arafat Shishir\\anaconda3\\pkgs\\wcwidth-0.2.5-pyhd3eb1b0_0",
+  "files": [
+    "Lib/site-packages/wcwidth-0.2.5.dist-info/INSTALLER",
+    "Lib/site-packages/wcwidth-0.2.5.dist-info/LICENSE",
+    "Lib/site-packages/wcwidth-0.2.5.dist-info/METADATA",
+    "Lib/site-packages/wcwidth-0.2.5.dist-info/RECORD",
+    "Lib/site-packages/wcwidth-0.2.5.dist-info/REQUESTED",
+    "Lib/site-packages/wcwidth-0.2.5.dist-info/WHEEL",
+    "Lib/site-packages/wcwidth-0.2.5.dist-info/direct_url.json",
+    "Lib/site-packages/wcwidth-0.2.5.dist-info/top_level.txt",
+    "Lib/site-packages/wcwidth-0.2.5.dist-info/zip-safe",
+    "Lib/site-packages/wcwidth/__init__.py",
+    "Lib/site-packages/wcwidth/table_wide.py",
+    "Lib/site-packages/wcwidth/table_zero.py",
+    "Lib/site-packages/wcwidth/unicode_versions.py",
+    "Lib/site-packages/wcwidth/wcwidth.py",
+    ".nonadmin",
+    "Lib/site-packages/wcwidth/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/wcwidth/__pycache__/table_wide.cpython-312.pyc",
+    "Lib/site-packages/wcwidth/__pycache__/table_zero.cpython-312.pyc",
+    "Lib/site-packages/wcwidth/__pycache__/unicode_versions.cpython-312.pyc",
+    "Lib/site-packages/wcwidth/__pycache__/wcwidth.cpython-312.pyc"
+  ],
+  "fn": "wcwidth-0.2.5-pyhd3eb1b0_0.conda",
+  "license": "MIT",
+  "link": {
+    "source": "C:\\Users\\Arafat Shishir\\anaconda3\\pkgs\\wcwidth-0.2.5-pyhd3eb1b0_0",
+    "type": 1
+  },
+  "md5": "ffa649340272c3f6466ba01da254c3b0",
+  "name": "wcwidth",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\Users\\Arafat Shishir\\anaconda3\\pkgs\\wcwidth-0.2.5-pyhd3eb1b0_0.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/wcwidth/__pycache__/__init__.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/wcwidth/__pycache__/table_wide.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/wcwidth/__pycache__/table_zero.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/wcwidth/__pycache__/unicode_versions.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/wcwidth/__pycache__/wcwidth.cpython-312.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/noarch::wcwidth==0.2.5=pyhd3eb1b0_0[md5=ffa649340272c3f6466ba01da254c3b0]",
+  "sha256": "19f0d42ae7e5ab32e558812a0025c00de31e2a3636bb051ae3527db196264532",
+  "size": 26717,
+  "subdir": "noarch",
+  "timestamp": 1629357209000,
+  "url": "https://repo.anaconda.com/pkgs/main/noarch/wcwidth-0.2.5-pyhd3eb1b0_0.conda",
+  "version": "0.2.5"
+}

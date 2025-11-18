@@ -1,0 +1,69 @@
+{
+  "build": "pyhd3eb1b0_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/noarch",
+  "constrains": [],
+  "depends": [
+    "python"
+  ],
+  "extracted_package_dir": "C:\\Users\\Arafat Shishir\\anaconda3\\pkgs\\tblib-1.7.0-pyhd3eb1b0_0",
+  "files": [
+    "Lib/site-packages/tblib-1.7.0.dist-info/AUTHORS.rst",
+    "Lib/site-packages/tblib-1.7.0.dist-info/INSTALLER",
+    "Lib/site-packages/tblib-1.7.0.dist-info/LICENSE",
+    "Lib/site-packages/tblib-1.7.0.dist-info/METADATA",
+    "Lib/site-packages/tblib-1.7.0.dist-info/RECORD",
+    "Lib/site-packages/tblib-1.7.0.dist-info/REQUESTED",
+    "Lib/site-packages/tblib-1.7.0.dist-info/WHEEL",
+    "Lib/site-packages/tblib-1.7.0.dist-info/direct_url.json",
+    "Lib/site-packages/tblib-1.7.0.dist-info/top_level.txt",
+    "Lib/site-packages/tblib/__init__.py",
+    "Lib/site-packages/tblib/cpython.py",
+    "Lib/site-packages/tblib/decorators.py",
+    "Lib/site-packages/tblib/pickling_support.py",
+    ".nonadmin",
+    "Lib/site-packages/tblib/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/tblib/__pycache__/cpython.cpython-312.pyc",
+    "Lib/site-packages/tblib/__pycache__/decorators.cpython-312.pyc",
+    "Lib/site-packages/tblib/__pycache__/pickling_support.cpython-312.pyc"
+  ],
+  "fn": "tblib-1.7.0-pyhd3eb1b0_0.conda",
+  "license": "BSD 2-Clause",
+  "link": {
+    "source": "C:\\Users\\Arafat Shishir\\anaconda3\\pkgs\\tblib-1.7.0-pyhd3eb1b0_0",
+    "type": 1
+  },
+  "md5": "6af496367894a19ed9f0115bef20fd7d",
+  "name": "tblib",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\Users\\Arafat Shishir\\anaconda3\\pkgs\\tblib-1.7.0-pyhd3eb1b0_0.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/tblib/__pycache__/__init__.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/tblib/__pycache__/cpython.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/tblib/__pycache__/decorators.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/tblib/__pycache__/pickling_support.cpython-312.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/noarch::tblib==1.7.0=pyhd3eb1b0_0[md5=6af496367894a19ed9f0115bef20fd7d]",
+  "sha256": "c2903e9a9c0e6b77cd6bd1166bf7798494848d0f9ca017e00667d795e4f1dce9",
+  "size": 15686,
+  "subdir": "noarch",
+  "timestamp": 1629402049000,
+  "url": "https://repo.anaconda.com/pkgs/main/noarch/tblib-1.7.0-pyhd3eb1b0_0.conda",
+  "version": "1.7.0"
+}

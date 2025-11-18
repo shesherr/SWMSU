@@ -1,0 +1,57 @@
+{
+  "build": "py312haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.12,<3.13.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\Arafat Shishir\\anaconda3\\pkgs\\itsdangerous-2.2.0-py312haa95532_0",
+  "files": [
+    "Lib/site-packages/itsdangerous-2.2.0.dist-info/INSTALLER",
+    "Lib/site-packages/itsdangerous-2.2.0.dist-info/LICENSE.txt",
+    "Lib/site-packages/itsdangerous-2.2.0.dist-info/METADATA",
+    "Lib/site-packages/itsdangerous-2.2.0.dist-info/RECORD",
+    "Lib/site-packages/itsdangerous-2.2.0.dist-info/REQUESTED",
+    "Lib/site-packages/itsdangerous-2.2.0.dist-info/WHEEL",
+    "Lib/site-packages/itsdangerous-2.2.0.dist-info/direct_url.json",
+    "Lib/site-packages/itsdangerous/__init__.py",
+    "Lib/site-packages/itsdangerous/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/itsdangerous/__pycache__/_json.cpython-312.pyc",
+    "Lib/site-packages/itsdangerous/__pycache__/encoding.cpython-312.pyc",
+    "Lib/site-packages/itsdangerous/__pycache__/exc.cpython-312.pyc",
+    "Lib/site-packages/itsdangerous/__pycache__/serializer.cpython-312.pyc",
+    "Lib/site-packages/itsdangerous/__pycache__/signer.cpython-312.pyc",
+    "Lib/site-packages/itsdangerous/__pycache__/timed.cpython-312.pyc",
+    "Lib/site-packages/itsdangerous/__pycache__/url_safe.cpython-312.pyc",
+    "Lib/site-packages/itsdangerous/_json.py",
+    "Lib/site-packages/itsdangerous/encoding.py",
+    "Lib/site-packages/itsdangerous/exc.py",
+    "Lib/site-packages/itsdangerous/py.typed",
+    "Lib/site-packages/itsdangerous/serializer.py",
+    "Lib/site-packages/itsdangerous/signer.py",
+    "Lib/site-packages/itsdangerous/timed.py",
+    "Lib/site-packages/itsdangerous/url_safe.py",
+    ".nonadmin"
+  ],
+  "fn": "itsdangerous-2.2.0-py312haa95532_0.conda",
+  "license": "BSD-3-Clause",
+  "link": {
+    "source": "C:\\Users\\Arafat Shishir\\anaconda3\\pkgs\\itsdangerous-2.2.0-py312haa95532_0",
+    "type": 1
+  },
+  "md5": "e96d591a85a20fc91912e21745aa4083",
+  "name": "itsdangerous",
+  "package_tarball_full_path": "C:\\Users\\Arafat Shishir\\anaconda3\\pkgs\\itsdangerous-2.2.0-py312haa95532_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/win-64::itsdangerous==2.2.0=py312haa95532_0[md5=e96d591a85a20fc91912e21745aa4083]",
+  "sha256": "b9f326b9c43afb75e8a7160c2418e40ec1d181b23b047c93e860052413321865",
+  "size": 37007,
+  "subdir": "win-64",
+  "timestamp": 1716533562000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/itsdangerous-2.2.0-py312haa95532_0.conda",
+  "version": "2.2.0"
+}

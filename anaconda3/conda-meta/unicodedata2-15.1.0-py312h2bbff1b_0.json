@@ -1,0 +1,44 @@
+{
+  "build": "py312h2bbff1b_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.12,<3.13.0a0",
+    "vc >=14.1,<15.0a0",
+    "vs2015_runtime >=14.16.27012,<15.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\Arafat Shishir\\anaconda3\\pkgs\\unicodedata2-15.1.0-py312h2bbff1b_0",
+  "files": [
+    "Lib/site-packages/unicodedata2-15.1.0.dist-info/INSTALLER",
+    "Lib/site-packages/unicodedata2-15.1.0.dist-info/LICENSE",
+    "Lib/site-packages/unicodedata2-15.1.0.dist-info/METADATA",
+    "Lib/site-packages/unicodedata2-15.1.0.dist-info/RECORD",
+    "Lib/site-packages/unicodedata2-15.1.0.dist-info/REQUESTED",
+    "Lib/site-packages/unicodedata2-15.1.0.dist-info/WHEEL",
+    "Lib/site-packages/unicodedata2-15.1.0.dist-info/direct_url.json",
+    "Lib/site-packages/unicodedata2-15.1.0.dist-info/top_level.txt",
+    "Lib/site-packages/unicodedata2.cp312-win_amd64.pyd",
+    ".nonadmin"
+  ],
+  "fn": "unicodedata2-15.1.0-py312h2bbff1b_0.conda",
+  "license": "Apache-2.0",
+  "link": {
+    "source": "C:\\Users\\Arafat Shishir\\anaconda3\\pkgs\\unicodedata2-15.1.0-py312h2bbff1b_0",
+    "type": 1
+  },
+  "md5": "97e4435c553b3d76e51229b35d644311",
+  "name": "unicodedata2",
+  "package_tarball_full_path": "C:\\Users\\Arafat Shishir\\anaconda3\\pkgs\\unicodedata2-15.1.0-py312h2bbff1b_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/win-64::unicodedata2==15.1.0=py312h2bbff1b_0[md5=97e4435c553b3d76e51229b35d644311]",
+  "sha256": "4439778ce81235b45f1f8d17b440f3b51ff56171f3581b13df9779995ccb4002",
+  "size": 537231,
+  "subdir": "win-64",
+  "timestamp": 1713213432000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/unicodedata2-15.1.0-py312h2bbff1b_0.conda",
+  "version": "15.1.0"
+}

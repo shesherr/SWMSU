@@ -1,0 +1,53 @@
+{
+  "build": "py312haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "itemadapter >=0.1.0",
+    "jmespath >=0.9.5",
+    "parsel >=1.5.0",
+    "python >=3.12,<3.13.0a0",
+    "w3lib >=1.17.0"
+  ],
+  "extracted_package_dir": "C:\\Users\\Arafat Shishir\\anaconda3\\pkgs\\itemloaders-1.1.0-py312haa95532_0",
+  "files": [
+    "Lib/site-packages/itemloaders-1.1.0.dist-info/INSTALLER",
+    "Lib/site-packages/itemloaders-1.1.0.dist-info/LICENSE",
+    "Lib/site-packages/itemloaders-1.1.0.dist-info/METADATA",
+    "Lib/site-packages/itemloaders-1.1.0.dist-info/RECORD",
+    "Lib/site-packages/itemloaders-1.1.0.dist-info/REQUESTED",
+    "Lib/site-packages/itemloaders-1.1.0.dist-info/WHEEL",
+    "Lib/site-packages/itemloaders-1.1.0.dist-info/direct_url.json",
+    "Lib/site-packages/itemloaders-1.1.0.dist-info/top_level.txt",
+    "Lib/site-packages/itemloaders/__init__.py",
+    "Lib/site-packages/itemloaders/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/itemloaders/__pycache__/common.cpython-312.pyc",
+    "Lib/site-packages/itemloaders/__pycache__/processors.cpython-312.pyc",
+    "Lib/site-packages/itemloaders/__pycache__/utils.cpython-312.pyc",
+    "Lib/site-packages/itemloaders/common.py",
+    "Lib/site-packages/itemloaders/processors.py",
+    "Lib/site-packages/itemloaders/utils.py",
+    ".nonadmin"
+  ],
+  "fn": "itemloaders-1.1.0-py312haa95532_0.conda",
+  "license": "BSD-3-Clause",
+  "link": {
+    "source": "C:\\Users\\Arafat Shishir\\anaconda3\\pkgs\\itemloaders-1.1.0-py312haa95532_0",
+    "type": 1
+  },
+  "md5": "79cdcee34fe9b2346e9bf8ab84b09906",
+  "name": "itemloaders",
+  "package_tarball_full_path": "C:\\Users\\Arafat Shishir\\anaconda3\\pkgs\\itemloaders-1.1.0-py312haa95532_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/win-64::itemloaders==1.1.0=py312haa95532_0[md5=79cdcee34fe9b2346e9bf8ab84b09906]",
+  "sha256": "17cda52afe9250270a408b35733dad7a5daf425ab97f1fa87698793d57073d4b",
+  "size": 31607,
+  "subdir": "win-64",
+  "timestamp": 1708640280000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/itemloaders-1.1.0-py312haa95532_0.conda",
+  "version": "1.1.0"
+}

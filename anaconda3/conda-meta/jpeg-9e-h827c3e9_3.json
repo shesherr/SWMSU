@@ -1,0 +1,59 @@
+{
+  "build": "h827c3e9_3",
+  "build_number": 3,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "vc >=14.2,<15.0a0",
+    "vs2015_runtime >=14.29.30133,<15.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\Arafat Shishir\\anaconda3\\pkgs\\jpeg-9e-h827c3e9_3",
+  "files": [
+    "Library/bin/cjpeg.exe",
+    "Library/bin/djpeg.exe",
+    "Library/bin/jpegtran.exe",
+    "Library/bin/libjpeg.dll",
+    "Library/bin/rdjpgcom.exe",
+    "Library/bin/wrjpgcom.exe",
+    "Library/include/jconfig.h",
+    "Library/include/jerror.h",
+    "Library/include/jmorecfg.h",
+    "Library/include/jpegint.h",
+    "Library/include/jpeglib.h",
+    "Library/lib/jpeg-static.lib",
+    "Library/lib/jpeg.lib",
+    "Library/lib/libjpeg.lib",
+    "Library/lib/pkgconfig/libjpeg.pc",
+    ".nonadmin"
+  ],
+  "fn": "jpeg-9e-h827c3e9_3.conda",
+  "license": "IJG",
+  "link": {
+    "source": "C:\\Users\\Arafat Shishir\\anaconda3\\pkgs\\jpeg-9e-h827c3e9_3",
+    "type": 1
+  },
+  "md5": "ece4913843532479a93a7e42be64a607",
+  "name": "jpeg",
+  "package_tarball_full_path": "C:\\Users\\Arafat Shishir\\anaconda3\\pkgs\\jpeg-9e-h827c3e9_3.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/lib/pkgconfig/libjpeg.pc",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "C:/b/abs_89mraun3av/croot/jpeg_1722872647677/_h_env",
+        "sha256": "485a8a10a41ae63ea4afa0ebcbaa07aa2ed4be68defcfeac927dad4ac4b28934",
+        "sha256_in_prefix": "91b9e0993d22f7c159e98da64339ba2928244cd9bd4dca0c8a7141f6b63f7270",
+        "size_in_bytes": 272
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/win-64::jpeg==9e=h827c3e9_3[md5=ece4913843532479a93a7e42be64a607]",
+  "sha256": "35309751285f3dc251ce6dda7fbbbd0eaa3fcdbef6a9548a60ad2adf4f0814b8",
+  "size": 341887,
+  "subdir": "win-64",
+  "timestamp": 1722872751000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/jpeg-9e-h827c3e9_3.conda",
+  "version": "9e"
+}

@@ -1,0 +1,53 @@
+{
+  "build": "py312haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.12,<3.13.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\Arafat Shishir\\anaconda3\\pkgs\\truststore-0.8.0-py312haa95532_0",
+  "files": [
+    "Lib/site-packages/truststore-0.8.0.dist-info/INSTALLER",
+    "Lib/site-packages/truststore-0.8.0.dist-info/LICENSE",
+    "Lib/site-packages/truststore-0.8.0.dist-info/METADATA",
+    "Lib/site-packages/truststore-0.8.0.dist-info/RECORD",
+    "Lib/site-packages/truststore-0.8.0.dist-info/REQUESTED",
+    "Lib/site-packages/truststore-0.8.0.dist-info/WHEEL",
+    "Lib/site-packages/truststore-0.8.0.dist-info/direct_url.json",
+    "Lib/site-packages/truststore/__init__.py",
+    "Lib/site-packages/truststore/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/truststore/__pycache__/_api.cpython-312.pyc",
+    "Lib/site-packages/truststore/__pycache__/_macos.cpython-312.pyc",
+    "Lib/site-packages/truststore/__pycache__/_openssl.cpython-312.pyc",
+    "Lib/site-packages/truststore/__pycache__/_ssl_constants.cpython-312.pyc",
+    "Lib/site-packages/truststore/__pycache__/_windows.cpython-312.pyc",
+    "Lib/site-packages/truststore/_api.py",
+    "Lib/site-packages/truststore/_macos.py",
+    "Lib/site-packages/truststore/_openssl.py",
+    "Lib/site-packages/truststore/_ssl_constants.py",
+    "Lib/site-packages/truststore/_windows.py",
+    "Lib/site-packages/truststore/py.typed",
+    ".nonadmin"
+  ],
+  "fn": "truststore-0.8.0-py312haa95532_0.conda",
+  "license": "MIT",
+  "link": {
+    "source": "C:\\Users\\Arafat Shishir\\anaconda3\\pkgs\\truststore-0.8.0-py312haa95532_0",
+    "type": 1
+  },
+  "md5": "cd11980b22b5d9d958033a7df07c0617",
+  "name": "truststore",
+  "package_tarball_full_path": "C:\\Users\\Arafat Shishir\\anaconda3\\pkgs\\truststore-0.8.0-py312haa95532_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/win-64::truststore==0.8.0=py312haa95532_0[md5=cd11980b22b5d9d958033a7df07c0617]",
+  "sha256": "9dff0cea3f3f9af219dffc1d43642ce9d4aef255b32cf6d42bfbdde634edba5e",
+  "size": 44643,
+  "subdir": "win-64",
+  "timestamp": 1701881420000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/truststore-0.8.0-py312haa95532_0.conda",
+  "version": "0.8.0"
+}

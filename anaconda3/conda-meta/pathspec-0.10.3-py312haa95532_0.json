@@ -1,0 +1,58 @@
+{
+  "build": "py312haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.12,<3.13.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\Arafat Shishir\\anaconda3\\pkgs\\pathspec-0.10.3-py312haa95532_0",
+  "files": [
+    "Lib/site-packages/pathspec-0.10.3.dist-info/INSTALLER",
+    "Lib/site-packages/pathspec-0.10.3.dist-info/LICENSE",
+    "Lib/site-packages/pathspec-0.10.3.dist-info/METADATA",
+    "Lib/site-packages/pathspec-0.10.3.dist-info/RECORD",
+    "Lib/site-packages/pathspec-0.10.3.dist-info/REQUESTED",
+    "Lib/site-packages/pathspec-0.10.3.dist-info/WHEEL",
+    "Lib/site-packages/pathspec-0.10.3.dist-info/direct_url.json",
+    "Lib/site-packages/pathspec-0.10.3.dist-info/top_level.txt",
+    "Lib/site-packages/pathspec/__init__.py",
+    "Lib/site-packages/pathspec/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/pathspec/__pycache__/_meta.cpython-312.pyc",
+    "Lib/site-packages/pathspec/__pycache__/gitignore.cpython-312.pyc",
+    "Lib/site-packages/pathspec/__pycache__/pathspec.cpython-312.pyc",
+    "Lib/site-packages/pathspec/__pycache__/pattern.cpython-312.pyc",
+    "Lib/site-packages/pathspec/__pycache__/util.cpython-312.pyc",
+    "Lib/site-packages/pathspec/_meta.py",
+    "Lib/site-packages/pathspec/gitignore.py",
+    "Lib/site-packages/pathspec/pathspec.py",
+    "Lib/site-packages/pathspec/pattern.py",
+    "Lib/site-packages/pathspec/patterns/__init__.py",
+    "Lib/site-packages/pathspec/patterns/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/pathspec/patterns/__pycache__/gitwildmatch.cpython-312.pyc",
+    "Lib/site-packages/pathspec/patterns/gitwildmatch.py",
+    "Lib/site-packages/pathspec/py.typed",
+    "Lib/site-packages/pathspec/util.py",
+    ".nonadmin"
+  ],
+  "fn": "pathspec-0.10.3-py312haa95532_0.conda",
+  "license": "MPL-2.0",
+  "link": {
+    "source": "C:\\Users\\Arafat Shishir\\anaconda3\\pkgs\\pathspec-0.10.3-py312haa95532_0",
+    "type": 1
+  },
+  "md5": "52cf22a235e671ad83015548ed0aa64e",
+  "name": "pathspec",
+  "package_tarball_full_path": "C:\\Users\\Arafat Shishir\\anaconda3\\pkgs\\pathspec-0.10.3-py312haa95532_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/win-64::pathspec==0.10.3=py312haa95532_0[md5=52cf22a235e671ad83015548ed0aa64e]",
+  "sha256": "91b0bcb5483451db2c77e745d642c3ac804f2a7cf14b55147a322772a116ad50",
+  "size": 53470,
+  "subdir": "win-64",
+  "timestamp": 1699472500000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/pathspec-0.10.3-py312haa95532_0.conda",
+  "version": "0.10.3"
+}

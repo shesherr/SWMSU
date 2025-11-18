@@ -1,0 +1,47 @@
+{
+  "build": "py312haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.12,<3.13.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\Arafat Shishir\\anaconda3\\pkgs\\zipp-3.17.0-py312haa95532_0",
+  "files": [
+    "Lib/site-packages/zipp-3.17.0.dist-info/INSTALLER",
+    "Lib/site-packages/zipp-3.17.0.dist-info/LICENSE",
+    "Lib/site-packages/zipp-3.17.0.dist-info/METADATA",
+    "Lib/site-packages/zipp-3.17.0.dist-info/RECORD",
+    "Lib/site-packages/zipp-3.17.0.dist-info/REQUESTED",
+    "Lib/site-packages/zipp-3.17.0.dist-info/WHEEL",
+    "Lib/site-packages/zipp-3.17.0.dist-info/direct_url.json",
+    "Lib/site-packages/zipp-3.17.0.dist-info/top_level.txt",
+    "Lib/site-packages/zipp/__init__.py",
+    "Lib/site-packages/zipp/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/zipp/__pycache__/glob.cpython-312.pyc",
+    "Lib/site-packages/zipp/__pycache__/py310compat.cpython-312.pyc",
+    "Lib/site-packages/zipp/glob.py",
+    "Lib/site-packages/zipp/py310compat.py",
+    ".nonadmin"
+  ],
+  "fn": "zipp-3.17.0-py312haa95532_0.conda",
+  "license": "MIT",
+  "link": {
+    "source": "C:\\Users\\Arafat Shishir\\anaconda3\\pkgs\\zipp-3.17.0-py312haa95532_0",
+    "type": 1
+  },
+  "md5": "0852ef7e3c15e158ad46d25d81963c30",
+  "name": "zipp",
+  "package_tarball_full_path": "C:\\Users\\Arafat Shishir\\anaconda3\\pkgs\\zipp-3.17.0-py312haa95532_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/win-64::zipp==3.17.0=py312haa95532_0[md5=0852ef7e3c15e158ad46d25d81963c30]",
+  "sha256": "156e2da7d62c00b94008f7c8dbfdabcbb207a08f23490f4eb0a5b7079a4a9caa",
+  "size": 25759,
+  "subdir": "win-64",
+  "timestamp": 1707493823000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/zipp-3.17.0-py312haa95532_0.conda",
+  "version": "3.17.0"
+}

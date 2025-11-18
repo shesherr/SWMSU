@@ -1,0 +1,73 @@
+1:00:04 Tab1 StartNav35 #renderer-script #auto_subframe
+1:00:04 Tab1 FinishNav35
+1:00:04 Tab1 PageLoad
+1:00:04 Autofill_ParsedCreditCardForm
+1:00:04 Tab1 FinishNav34
+1:00:04 Tab1 PageLoad #google
+1:00:05 Tab1 StartNav36 #renderer-script #auto_subframe
+1:00:05 Tab1 FinishNav36
+1:00:05 Tab1 PageLoad
+1:00:05 Tab1 StartNav37 #renderer-script #auto_subframe
+1:00:05 Tab1 FinishNav37
+1:00:05 Tab1 PageLoad
+1:00:05 Memory Pressure: Moderate
+1:00:55 Memory Pressure: Moderate
+1:07:21 Memory Pressure: Moderate
+1:27:18 Memory Pressure: Moderate
+1:29:38 Memory Pressure: Moderate
+1:36:49 Memory Pressure: Moderate
+1:37:04 Memory Pressure: Moderate
+1:37:14 Memory Pressure: Moderate
+1:37:24 Memory Pressure: Moderate
+1:37:34 Memory Pressure: Moderate
+1:37:44 Memory Pressure: Moderate
+1:37:54 Memory Pressure: Moderate
+1:38:04 Memory Pressure: Moderate
+1:38:14 Memory Pressure: Moderate
+1:38:24 Memory Pressure: Moderate
+1:38:34 Memory Pressure: Moderate
+1:38:44 Memory Pressure: Moderate
+1:38:54 Memory Pressure: Moderate
+1:39:04 Memory Pressure: Moderate
+1:39:14 Memory Pressure: Moderate
+1:39:24 Memory Pressure: Moderate
+2:00:06 Tab1 StartNav38 #google #renderer-script #auto_subframe
+2:00:06 Tab1 StartNav39 #renderer-script #auto_subframe
+2:00:06 Tab1 FinishNav39
+2:00:06 Tab1 PageLoad
+2:00:06 Autofill_ParsedCreditCardForm
+2:00:06 Tab1 FinishNav38
+2:00:06 Tab1 PageLoad #google
+2:00:07 Tab1 StartNav40 #renderer-script #auto_subframe
+2:00:07 Tab1 FinishNav40
+2:00:07 Tab1 PageLoad
+2:00:07 Tab1 StartNav41 #renderer-script #auto_subframe
+2:00:07 Tab1 FinishNav41
+2:00:07 Tab1 PageLoad
+3:00:07 Tab1 StartNav42 #google #renderer-script #auto_subframe
+3:00:07 Tab1 StartNav43 #renderer-script #auto_subframe
+3:00:07 Tab1 FinishNav43
+3:00:07 Tab1 PageLoad
+3:00:07 Autofill_ParsedCreditCardForm
+3:00:07 Tab1 FinishNav42
+3:00:08 Tab1 PageLoad #google
+3:00:08 Tab1 StartNav44 #renderer-script #auto_subframe
+3:00:08 Tab1 FinishNav44
+3:00:08 Tab1 PageLoad
+3:00:08 Tab1 StartNav45 #renderer-script #auto_subframe
+3:00:08 Tab1 FinishNav45
+3:00:08 Tab1 PageLoad
+4:00:08 Tab1 StartNav46 #google #renderer-script #auto_subframe
+4:00:08 Tab1 StartNav47 #renderer-script #auto_subframe
+4:00:08 Tab1 FinishNav47
+4:00:08 Tab1 PageLoad
+4:00:09 Autofill_ParsedCreditCardForm
+4:00:09 Tab1 FinishNav46
+4:00:09 Tab1 PageLoad #google
+4:00:10 Tab1 StartNav48 #renderer-script #auto_subframe
+4:00:10 Tab1 FinishNav48
+4:00:10 Tab1 StartNav49 #renderer-script #auto_subframe
+4:00:10 Tab1 FinishNav49
+4:00:10 Tab1 PageLoad
+4:00:10 Tab1 PageLoad
+4:14:47 Microsoft.UnloadController.IsUnclosableApp_IsNotWebApp

@@ -1,0 +1,57 @@
+{
+  "build": "pyhd3eb1b0_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/noarch",
+  "constrains": [],
+  "depends": [
+    "diff-match-patch",
+    "python"
+  ],
+  "extracted_package_dir": "C:\\Users\\Arafat Shishir\\anaconda3\\pkgs\\three-merge-0.1.1-pyhd3eb1b0_0",
+  "files": [
+    "Lib/site-packages/three_merge-0.1.1.dist-info/INSTALLER",
+    "Lib/site-packages/three_merge-0.1.1.dist-info/LICENSE",
+    "Lib/site-packages/three_merge-0.1.1.dist-info/METADATA",
+    "Lib/site-packages/three_merge-0.1.1.dist-info/RECORD",
+    "Lib/site-packages/three_merge-0.1.1.dist-info/REQUESTED",
+    "Lib/site-packages/three_merge-0.1.1.dist-info/WHEEL",
+    "Lib/site-packages/three_merge-0.1.1.dist-info/direct_url.json",
+    "Lib/site-packages/three_merge-0.1.1.dist-info/top_level.txt",
+    "Lib/site-packages/three_merge/__init__.py",
+    "Lib/site-packages/three_merge/merge.py",
+    ".nonadmin",
+    "Lib/site-packages/three_merge/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/three_merge/__pycache__/merge.cpython-312.pyc"
+  ],
+  "fn": "three-merge-0.1.1-pyhd3eb1b0_0.conda",
+  "license": "MIT",
+  "link": {
+    "source": "C:\\Users\\Arafat Shishir\\anaconda3\\pkgs\\three-merge-0.1.1-pyhd3eb1b0_0",
+    "type": 1
+  },
+  "md5": "5ae0f5c203a35f7138e0199df9c7d5bc",
+  "name": "three-merge",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\Users\\Arafat Shishir\\anaconda3\\pkgs\\three-merge-0.1.1-pyhd3eb1b0_0.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/three_merge/__pycache__/__init__.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/three_merge/__pycache__/merge.cpython-312.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/noarch::three-merge==0.1.1=pyhd3eb1b0_0[md5=5ae0f5c203a35f7138e0199df9c7d5bc]",
+  "sha256": "cf3640f388912718c0e54bda4d284c48c44af90fc0bcc4239c6aca3f3a782d8f",
+  "size": 9907,
+  "subdir": "noarch",
+  "timestamp": 1607553295000,
+  "url": "https://repo.anaconda.com/pkgs/main/noarch/three-merge-0.1.1-pyhd3eb1b0_0.conda",
+  "version": "0.1.1"
+}

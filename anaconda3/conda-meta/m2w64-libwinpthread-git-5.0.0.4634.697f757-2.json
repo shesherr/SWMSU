@@ -1,0 +1,35 @@
+{
+  "build": "2",
+  "build_number": 2,
+  "channel": "https://repo.anaconda.com/pkgs/msys2/win-64",
+  "constrains": [],
+  "depends": [
+    "msys2-conda-epoch >=20160418"
+  ],
+  "extracted_package_dir": "C:\\Users\\Arafat Shishir\\anaconda3\\pkgs\\m2w64-libwinpthread-git-5.0.0.4634.697f757-2",
+  "files": [
+    "Library/mingw-w64/bin/libwinpthread-1.dll",
+    "Library/mingw-w64/share/licenses/libwinpthread/COPYING",
+    "Library/mingw-w64/share/licenses/libwinpthread/mingw-w64-libraries/winpthreads/COPYING",
+    ".nonadmin"
+  ],
+  "fn": "m2w64-libwinpthread-git-5.0.0.4634.697f757-2.tar.bz2",
+  "license": "MIT, BSD",
+  "link": {
+    "source": "C:\\Users\\Arafat Shishir\\anaconda3\\pkgs\\m2w64-libwinpthread-git-5.0.0.4634.697f757-2",
+    "type": 1
+  },
+  "md5": "67e61e700eb27424979778fae9293f13",
+  "name": "m2w64-libwinpthread-git",
+  "package_tarball_full_path": "C:\\Users\\Arafat Shishir\\anaconda3\\pkgs\\m2w64-libwinpthread-git-5.0.0.4634.697f757-2.tar.bz2",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/win-64::m2w64-libwinpthread-git==5.0.0.4634.697f757=2[md5=67e61e700eb27424979778fae9293f13]",
+  "sha256": "9373b0157e08cbea09298f461d2816833281b3e22a8c9f6c5a38d7109c8a281e",
+  "size": 30543,
+  "subdir": "win-64",
+  "url": "https://repo.anaconda.com/pkgs/msys2/win-64/m2w64-libwinpthread-git-5.0.0.4634.697f757-2.tar.bz2",
+  "version": "5.0.0.4634.697f757"
+}

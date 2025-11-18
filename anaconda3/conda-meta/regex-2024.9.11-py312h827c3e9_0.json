@@ -1,0 +1,52 @@
+{
+  "build": "py312h827c3e9_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.12,<3.13.0a0",
+    "vc >=14.2,<15.0a0",
+    "vs2015_runtime >=14.29.30133,<15.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\Arafat Shishir\\anaconda3\\pkgs\\regex-2024.9.11-py312h827c3e9_0",
+  "files": [
+    "Lib/site-packages/regex-2024.9.11.dist-info/INSTALLER",
+    "Lib/site-packages/regex-2024.9.11.dist-info/LICENSE.txt",
+    "Lib/site-packages/regex-2024.9.11.dist-info/METADATA",
+    "Lib/site-packages/regex-2024.9.11.dist-info/RECORD",
+    "Lib/site-packages/regex-2024.9.11.dist-info/REQUESTED",
+    "Lib/site-packages/regex-2024.9.11.dist-info/WHEEL",
+    "Lib/site-packages/regex-2024.9.11.dist-info/direct_url.json",
+    "Lib/site-packages/regex-2024.9.11.dist-info/top_level.txt",
+    "Lib/site-packages/regex/__init__.py",
+    "Lib/site-packages/regex/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/regex/__pycache__/_regex_core.cpython-312.pyc",
+    "Lib/site-packages/regex/__pycache__/regex.cpython-312.pyc",
+    "Lib/site-packages/regex/__pycache__/test_regex.cpython-312.pyc",
+    "Lib/site-packages/regex/_regex.cp312-win_amd64.pyd",
+    "Lib/site-packages/regex/_regex_core.py",
+    "Lib/site-packages/regex/regex.py",
+    "Lib/site-packages/regex/test_regex.py",
+    ".nonadmin"
+  ],
+  "fn": "regex-2024.9.11-py312h827c3e9_0.conda",
+  "license": "Apache-2.0",
+  "link": {
+    "source": "C:\\Users\\Arafat Shishir\\anaconda3\\pkgs\\regex-2024.9.11-py312h827c3e9_0",
+    "type": 1
+  },
+  "md5": "a884257ee5288826f553e577c8ceb5f0",
+  "name": "regex",
+  "package_tarball_full_path": "C:\\Users\\Arafat Shishir\\anaconda3\\pkgs\\regex-2024.9.11-py312h827c3e9_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/win-64::regex==2024.9.11=py312h827c3e9_0[md5=a884257ee5288826f553e577c8ceb5f0]",
+  "sha256": "3a0e0a7cb507215679f9162f965581d162edc82c2fac5b03900a5a19e53c2757",
+  "size": 403143,
+  "subdir": "win-64",
+  "timestamp": 1726670709000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/regex-2024.9.11-py312h827c3e9_0.conda",
+  "version": "2024.9.11"
+}

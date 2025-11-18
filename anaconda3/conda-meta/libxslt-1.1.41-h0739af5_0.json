@@ -1,0 +1,92 @@
+{
+  "build": "h0739af5_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "libxml2 >=2.13.1,<2.14.0a0",
+    "vc >=14.2,<15.0a0",
+    "vs2015_runtime >=14.29.30133,<15.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\Arafat Shishir\\anaconda3\\pkgs\\libxslt-1.1.41-h0739af5_0",
+  "files": [
+    "Library/bin/libexslt.dll",
+    "Library/bin/libxslt.dll",
+    "Library/bin/xsltproc.exe",
+    "Library/include/libexslt/exslt.h",
+    "Library/include/libexslt/exsltconfig.h",
+    "Library/include/libexslt/exsltexports.h",
+    "Library/include/libexslt/libexslt.h",
+    "Library/include/libxslt/attributes.h",
+    "Library/include/libxslt/documents.h",
+    "Library/include/libxslt/extensions.h",
+    "Library/include/libxslt/extra.h",
+    "Library/include/libxslt/functions.h",
+    "Library/include/libxslt/imports.h",
+    "Library/include/libxslt/keys.h",
+    "Library/include/libxslt/libxslt.h",
+    "Library/include/libxslt/namespaces.h",
+    "Library/include/libxslt/numbersInternals.h",
+    "Library/include/libxslt/pattern.h",
+    "Library/include/libxslt/preproc.h",
+    "Library/include/libxslt/security.h",
+    "Library/include/libxslt/templates.h",
+    "Library/include/libxslt/transform.h",
+    "Library/include/libxslt/trio.h",
+    "Library/include/libxslt/triodef.h",
+    "Library/include/libxslt/variables.h",
+    "Library/include/libxslt/win32config.h",
+    "Library/include/libxslt/xslt.h",
+    "Library/include/libxslt/xsltInternals.h",
+    "Library/include/libxslt/xsltconfig.h",
+    "Library/include/libxslt/xsltexports.h",
+    "Library/include/libxslt/xsltlocale.h",
+    "Library/include/libxslt/xsltutils.h",
+    "Library/lib/libexslt.lib",
+    "Library/lib/libexslt_a.lib",
+    "Library/lib/libxslt.lib",
+    "Library/lib/libxslt_a.lib",
+    "Library/lib/pkgconfig/libexslt.pc",
+    "Library/lib/pkgconfig/libxslt.pc",
+    ".nonadmin"
+  ],
+  "fn": "libxslt-1.1.41-h0739af5_0.conda",
+  "license": "MIT",
+  "link": {
+    "source": "C:\\Users\\Arafat Shishir\\anaconda3\\pkgs\\libxslt-1.1.41-h0739af5_0",
+    "type": 1
+  },
+  "md5": "7319e12e493987d45e27c14482e50070",
+  "name": "libxslt",
+  "package_tarball_full_path": "C:\\Users\\Arafat Shishir\\anaconda3\\pkgs\\libxslt-1.1.41-h0739af5_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/lib/pkgconfig/libexslt.pc",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "C:/b/abs_999ip563b4/croot/libxslt_1722527552024/_h_env",
+        "sha256": "455e0f076c4defafd9688524e597d7d11f400dbbc31bd0033067dfa37795781e",
+        "sha256_in_prefix": "854d945993f803d674a7fd4bd46120bc8fadee05d274a4ec1c51b969403106bf",
+        "size_in_bytes": 463
+      },
+      {
+        "_path": "Library/lib/pkgconfig/libxslt.pc",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "C:/b/abs_999ip563b4/croot/libxslt_1722527552024/_h_env",
+        "sha256": "c92acc2ebe0ffda0fbd6aa13745ed0efb2097ad83adcdeb3a77a8caabfaaa46f",
+        "sha256_in_prefix": "a50198fd5a0dcec34d1e8af59011d25a45415bcb13a43938de9c595366199bab",
+        "size_in_bytes": 452
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/win-64::libxslt==1.1.41=h0739af5_0[md5=7319e12e493987d45e27c14482e50070]",
+  "sha256": "c5e9d6238637ef204c3a538a415f1ba062272efe1533e4bae04c06c87890212d",
+  "size": 477730,
+  "subdir": "win-64",
+  "timestamp": 1722527660000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/libxslt-1.1.41-h0739af5_0.conda",
+  "version": "1.1.41"
+}

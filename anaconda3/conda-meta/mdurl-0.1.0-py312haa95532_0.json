@@ -1,0 +1,53 @@
+{
+  "build": "py312haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.12,<3.13.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\Arafat Shishir\\anaconda3\\pkgs\\mdurl-0.1.0-py312haa95532_0",
+  "files": [
+    "Lib/site-packages/mdurl-0.1.0.dist-info/INSTALLER",
+    "Lib/site-packages/mdurl-0.1.0.dist-info/LICENSE",
+    "Lib/site-packages/mdurl-0.1.0.dist-info/METADATA",
+    "Lib/site-packages/mdurl-0.1.0.dist-info/RECORD",
+    "Lib/site-packages/mdurl-0.1.0.dist-info/REQUESTED",
+    "Lib/site-packages/mdurl-0.1.0.dist-info/WHEEL",
+    "Lib/site-packages/mdurl-0.1.0.dist-info/direct_url.json",
+    "Lib/site-packages/mdurl/__init__.py",
+    "Lib/site-packages/mdurl/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/mdurl/__pycache__/_decode.cpython-312.pyc",
+    "Lib/site-packages/mdurl/__pycache__/_encode.cpython-312.pyc",
+    "Lib/site-packages/mdurl/__pycache__/_format.cpython-312.pyc",
+    "Lib/site-packages/mdurl/__pycache__/_parse.cpython-312.pyc",
+    "Lib/site-packages/mdurl/__pycache__/_url.cpython-312.pyc",
+    "Lib/site-packages/mdurl/_decode.py",
+    "Lib/site-packages/mdurl/_encode.py",
+    "Lib/site-packages/mdurl/_format.py",
+    "Lib/site-packages/mdurl/_parse.py",
+    "Lib/site-packages/mdurl/_url.py",
+    "Lib/site-packages/mdurl/py.typed",
+    ".nonadmin"
+  ],
+  "fn": "mdurl-0.1.0-py312haa95532_0.conda",
+  "license": "MIT",
+  "link": {
+    "source": "C:\\Users\\Arafat Shishir\\anaconda3\\pkgs\\mdurl-0.1.0-py312haa95532_0",
+    "type": 1
+  },
+  "md5": "3c5c0fdf37c35c55d291b4b9752337f6",
+  "name": "mdurl",
+  "package_tarball_full_path": "C:\\Users\\Arafat Shishir\\anaconda3\\pkgs\\mdurl-0.1.0-py312haa95532_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/win-64::mdurl==0.1.0=py312haa95532_0[md5=3c5c0fdf37c35c55d291b4b9752337f6]",
+  "sha256": "60ade518271a6d90e1a4063adfb799a7be531a1d89569fbc1e2c3d58649fb199",
+  "size": 22501,
+  "subdir": "win-64",
+  "timestamp": 1699473525000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/mdurl-0.1.0-py312haa95532_0.conda",
+  "version": "0.1.0"
+}

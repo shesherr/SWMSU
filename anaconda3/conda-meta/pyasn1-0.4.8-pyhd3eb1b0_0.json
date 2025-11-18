@@ -1,0 +1,261 @@
+{
+  "build": "pyhd3eb1b0_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/noarch",
+  "constrains": [],
+  "depends": [
+    "python"
+  ],
+  "extracted_package_dir": "C:\\Users\\Arafat Shishir\\anaconda3\\pkgs\\pyasn1-0.4.8-pyhd3eb1b0_0",
+  "files": [
+    "Lib/site-packages/pyasn1-0.4.8.dist-info/INSTALLER",
+    "Lib/site-packages/pyasn1-0.4.8.dist-info/LICENSE.rst",
+    "Lib/site-packages/pyasn1-0.4.8.dist-info/METADATA",
+    "Lib/site-packages/pyasn1-0.4.8.dist-info/RECORD",
+    "Lib/site-packages/pyasn1-0.4.8.dist-info/REQUESTED",
+    "Lib/site-packages/pyasn1-0.4.8.dist-info/WHEEL",
+    "Lib/site-packages/pyasn1-0.4.8.dist-info/direct_url.json",
+    "Lib/site-packages/pyasn1-0.4.8.dist-info/top_level.txt",
+    "Lib/site-packages/pyasn1-0.4.8.dist-info/zip-safe",
+    "Lib/site-packages/pyasn1/__init__.py",
+    "Lib/site-packages/pyasn1/codec/__init__.py",
+    "Lib/site-packages/pyasn1/codec/ber/__init__.py",
+    "Lib/site-packages/pyasn1/codec/ber/decoder.py",
+    "Lib/site-packages/pyasn1/codec/ber/encoder.py",
+    "Lib/site-packages/pyasn1/codec/ber/eoo.py",
+    "Lib/site-packages/pyasn1/codec/cer/__init__.py",
+    "Lib/site-packages/pyasn1/codec/cer/decoder.py",
+    "Lib/site-packages/pyasn1/codec/cer/encoder.py",
+    "Lib/site-packages/pyasn1/codec/der/__init__.py",
+    "Lib/site-packages/pyasn1/codec/der/decoder.py",
+    "Lib/site-packages/pyasn1/codec/der/encoder.py",
+    "Lib/site-packages/pyasn1/codec/native/__init__.py",
+    "Lib/site-packages/pyasn1/codec/native/decoder.py",
+    "Lib/site-packages/pyasn1/codec/native/encoder.py",
+    "Lib/site-packages/pyasn1/compat/__init__.py",
+    "Lib/site-packages/pyasn1/compat/binary.py",
+    "Lib/site-packages/pyasn1/compat/calling.py",
+    "Lib/site-packages/pyasn1/compat/dateandtime.py",
+    "Lib/site-packages/pyasn1/compat/integer.py",
+    "Lib/site-packages/pyasn1/compat/octets.py",
+    "Lib/site-packages/pyasn1/compat/string.py",
+    "Lib/site-packages/pyasn1/debug.py",
+    "Lib/site-packages/pyasn1/error.py",
+    "Lib/site-packages/pyasn1/type/__init__.py",
+    "Lib/site-packages/pyasn1/type/base.py",
+    "Lib/site-packages/pyasn1/type/char.py",
+    "Lib/site-packages/pyasn1/type/constraint.py",
+    "Lib/site-packages/pyasn1/type/error.py",
+    "Lib/site-packages/pyasn1/type/namedtype.py",
+    "Lib/site-packages/pyasn1/type/namedval.py",
+    "Lib/site-packages/pyasn1/type/opentype.py",
+    "Lib/site-packages/pyasn1/type/tag.py",
+    "Lib/site-packages/pyasn1/type/tagmap.py",
+    "Lib/site-packages/pyasn1/type/univ.py",
+    "Lib/site-packages/pyasn1/type/useful.py",
+    ".nonadmin",
+    "Lib/site-packages/pyasn1/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/pyasn1/codec/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/pyasn1/codec/ber/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/pyasn1/codec/ber/__pycache__/decoder.cpython-312.pyc",
+    "Lib/site-packages/pyasn1/codec/ber/__pycache__/encoder.cpython-312.pyc",
+    "Lib/site-packages/pyasn1/codec/ber/__pycache__/eoo.cpython-312.pyc",
+    "Lib/site-packages/pyasn1/codec/cer/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/pyasn1/codec/cer/__pycache__/decoder.cpython-312.pyc",
+    "Lib/site-packages/pyasn1/codec/cer/__pycache__/encoder.cpython-312.pyc",
+    "Lib/site-packages/pyasn1/codec/der/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/pyasn1/codec/der/__pycache__/decoder.cpython-312.pyc",
+    "Lib/site-packages/pyasn1/codec/der/__pycache__/encoder.cpython-312.pyc",
+    "Lib/site-packages/pyasn1/codec/native/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/pyasn1/codec/native/__pycache__/decoder.cpython-312.pyc",
+    "Lib/site-packages/pyasn1/codec/native/__pycache__/encoder.cpython-312.pyc",
+    "Lib/site-packages/pyasn1/compat/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/pyasn1/compat/__pycache__/binary.cpython-312.pyc",
+    "Lib/site-packages/pyasn1/compat/__pycache__/calling.cpython-312.pyc",
+    "Lib/site-packages/pyasn1/compat/__pycache__/dateandtime.cpython-312.pyc",
+    "Lib/site-packages/pyasn1/compat/__pycache__/integer.cpython-312.pyc",
+    "Lib/site-packages/pyasn1/compat/__pycache__/octets.cpython-312.pyc",
+    "Lib/site-packages/pyasn1/compat/__pycache__/string.cpython-312.pyc",
+    "Lib/site-packages/pyasn1/__pycache__/debug.cpython-312.pyc",
+    "Lib/site-packages/pyasn1/__pycache__/error.cpython-312.pyc",
+    "Lib/site-packages/pyasn1/type/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/pyasn1/type/__pycache__/base.cpython-312.pyc",
+    "Lib/site-packages/pyasn1/type/__pycache__/char.cpython-312.pyc",
+    "Lib/site-packages/pyasn1/type/__pycache__/constraint.cpython-312.pyc",
+    "Lib/site-packages/pyasn1/type/__pycache__/error.cpython-312.pyc",
+    "Lib/site-packages/pyasn1/type/__pycache__/namedtype.cpython-312.pyc",
+    "Lib/site-packages/pyasn1/type/__pycache__/namedval.cpython-312.pyc",
+    "Lib/site-packages/pyasn1/type/__pycache__/opentype.cpython-312.pyc",
+    "Lib/site-packages/pyasn1/type/__pycache__/tag.cpython-312.pyc",
+    "Lib/site-packages/pyasn1/type/__pycache__/tagmap.cpython-312.pyc",
+    "Lib/site-packages/pyasn1/type/__pycache__/univ.cpython-312.pyc",
+    "Lib/site-packages/pyasn1/type/__pycache__/useful.cpython-312.pyc"
+  ],
+  "fn": "pyasn1-0.4.8-pyhd3eb1b0_0.conda",
+  "license": "BSD 2-Clause",
+  "link": {
+    "source": "C:\\Users\\Arafat Shishir\\anaconda3\\pkgs\\pyasn1-0.4.8-pyhd3eb1b0_0",
+    "type": 1
+  },
+  "md5": "4e3f334c35c33118cbb0f7b546f9fc2f",
+  "name": "pyasn1",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\Users\\Arafat Shishir\\anaconda3\\pkgs\\pyasn1-0.4.8-pyhd3eb1b0_0.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/pyasn1/__pycache__/__init__.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pyasn1/codec/__pycache__/__init__.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pyasn1/codec/ber/__pycache__/__init__.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pyasn1/codec/ber/__pycache__/decoder.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pyasn1/codec/ber/__pycache__/encoder.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pyasn1/codec/ber/__pycache__/eoo.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pyasn1/codec/cer/__pycache__/__init__.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pyasn1/codec/cer/__pycache__/decoder.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pyasn1/codec/cer/__pycache__/encoder.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pyasn1/codec/der/__pycache__/__init__.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pyasn1/codec/der/__pycache__/decoder.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pyasn1/codec/der/__pycache__/encoder.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pyasn1/codec/native/__pycache__/__init__.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pyasn1/codec/native/__pycache__/decoder.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pyasn1/codec/native/__pycache__/encoder.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pyasn1/compat/__pycache__/__init__.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pyasn1/compat/__pycache__/binary.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pyasn1/compat/__pycache__/calling.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pyasn1/compat/__pycache__/dateandtime.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pyasn1/compat/__pycache__/integer.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pyasn1/compat/__pycache__/octets.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pyasn1/compat/__pycache__/string.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pyasn1/__pycache__/debug.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pyasn1/__pycache__/error.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pyasn1/type/__pycache__/__init__.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pyasn1/type/__pycache__/base.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pyasn1/type/__pycache__/char.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pyasn1/type/__pycache__/constraint.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pyasn1/type/__pycache__/error.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pyasn1/type/__pycache__/namedtype.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pyasn1/type/__pycache__/namedval.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pyasn1/type/__pycache__/opentype.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pyasn1/type/__pycache__/tag.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pyasn1/type/__pycache__/tagmap.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pyasn1/type/__pycache__/univ.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pyasn1/type/__pycache__/useful.cpython-312.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/noarch::pyasn1==0.4.8=pyhd3eb1b0_0[md5=4e3f334c35c33118cbb0f7b546f9fc2f]",
+  "sha256": "d5d64adac68b5716e36d6a4bbb1865591cccf67a64793cdc5ecf7c18a0f10535",
+  "size": 55287,
+  "subdir": "noarch",
+  "timestamp": 1629708025000,
+  "url": "https://repo.anaconda.com/pkgs/main/noarch/pyasn1-0.4.8-pyhd3eb1b0_0.conda",
+  "version": "0.4.8"
+}

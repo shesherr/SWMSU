@@ -1,0 +1,44 @@
+{
+  "build": "h6049295_2",
+  "build_number": 2,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [],
+  "extracted_package_dir": "C:\\Users\\Arafat Shishir\\anaconda3\\pkgs\\icc_rt-2022.1.0-h6049295_2",
+  "files": [
+    "Library/bin/1033/ifcore_msg.dll",
+    "Library/bin/1033/irc_msg.dll",
+    "Library/bin/1033/libmUI.dll",
+    "Library/bin/cilkrts20.dll",
+    "Library/bin/ifdlg100.dll",
+    "Library/bin/libchkp.dll",
+    "Library/bin/libicaf.dll",
+    "Library/bin/libifcoremd.dll",
+    "Library/bin/libifcorert.dll",
+    "Library/bin/libifportmd.dll",
+    "Library/bin/libirngmd.dll",
+    "Library/bin/libmmd.dll",
+    "Library/bin/svml_dispmd.dll",
+    ".nonadmin"
+  ],
+  "fn": "icc_rt-2022.1.0-h6049295_2.conda",
+  "license": "Intel proprietary",
+  "link": {
+    "source": "C:\\Users\\Arafat Shishir\\anaconda3\\pkgs\\icc_rt-2022.1.0-h6049295_2",
+    "type": 1
+  },
+  "md5": "4ea9e3682a5114c1ee3dc09bac898e8d",
+  "name": "icc_rt",
+  "package_tarball_full_path": "C:\\Users\\Arafat Shishir\\anaconda3\\pkgs\\icc_rt-2022.1.0-h6049295_2.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/win-64::icc_rt==2022.1.0=h6049295_2[md5=4ea9e3682a5114c1ee3dc09bac898e8d]",
+  "sha256": "9b2b6f2bc25c061c9a2ba16ef95f77ad330e8ad233a1134330aeed354c2bbe5c",
+  "size": 6846362,
+  "subdir": "win-64",
+  "timestamp": 1664812389000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/icc_rt-2022.1.0-h6049295_2.conda",
+  "version": "2022.1.0"
+}

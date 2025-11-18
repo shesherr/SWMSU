@@ -1,0 +1,236 @@
+{
+  "build": "pyhd3eb1b0_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/noarch",
+  "constrains": [],
+  "depends": [
+    "python >=3.6"
+  ],
+  "extracted_package_dir": "C:\\Users\\Arafat Shishir\\anaconda3\\pkgs\\snowballstemmer-2.2.0-pyhd3eb1b0_0",
+  "files": [
+    "Lib/site-packages/snowballstemmer-2.2.0.dist-info/COPYING",
+    "Lib/site-packages/snowballstemmer-2.2.0.dist-info/INSTALLER",
+    "Lib/site-packages/snowballstemmer-2.2.0.dist-info/METADATA",
+    "Lib/site-packages/snowballstemmer-2.2.0.dist-info/RECORD",
+    "Lib/site-packages/snowballstemmer-2.2.0.dist-info/REQUESTED",
+    "Lib/site-packages/snowballstemmer-2.2.0.dist-info/WHEEL",
+    "Lib/site-packages/snowballstemmer-2.2.0.dist-info/direct_url.json",
+    "Lib/site-packages/snowballstemmer-2.2.0.dist-info/top_level.txt",
+    "Lib/site-packages/snowballstemmer/__init__.py",
+    "Lib/site-packages/snowballstemmer/among.py",
+    "Lib/site-packages/snowballstemmer/arabic_stemmer.py",
+    "Lib/site-packages/snowballstemmer/armenian_stemmer.py",
+    "Lib/site-packages/snowballstemmer/basestemmer.py",
+    "Lib/site-packages/snowballstemmer/basque_stemmer.py",
+    "Lib/site-packages/snowballstemmer/catalan_stemmer.py",
+    "Lib/site-packages/snowballstemmer/danish_stemmer.py",
+    "Lib/site-packages/snowballstemmer/dutch_stemmer.py",
+    "Lib/site-packages/snowballstemmer/english_stemmer.py",
+    "Lib/site-packages/snowballstemmer/finnish_stemmer.py",
+    "Lib/site-packages/snowballstemmer/french_stemmer.py",
+    "Lib/site-packages/snowballstemmer/german_stemmer.py",
+    "Lib/site-packages/snowballstemmer/greek_stemmer.py",
+    "Lib/site-packages/snowballstemmer/hindi_stemmer.py",
+    "Lib/site-packages/snowballstemmer/hungarian_stemmer.py",
+    "Lib/site-packages/snowballstemmer/indonesian_stemmer.py",
+    "Lib/site-packages/snowballstemmer/irish_stemmer.py",
+    "Lib/site-packages/snowballstemmer/italian_stemmer.py",
+    "Lib/site-packages/snowballstemmer/lithuanian_stemmer.py",
+    "Lib/site-packages/snowballstemmer/nepali_stemmer.py",
+    "Lib/site-packages/snowballstemmer/norwegian_stemmer.py",
+    "Lib/site-packages/snowballstemmer/porter_stemmer.py",
+    "Lib/site-packages/snowballstemmer/portuguese_stemmer.py",
+    "Lib/site-packages/snowballstemmer/romanian_stemmer.py",
+    "Lib/site-packages/snowballstemmer/russian_stemmer.py",
+    "Lib/site-packages/snowballstemmer/serbian_stemmer.py",
+    "Lib/site-packages/snowballstemmer/spanish_stemmer.py",
+    "Lib/site-packages/snowballstemmer/swedish_stemmer.py",
+    "Lib/site-packages/snowballstemmer/tamil_stemmer.py",
+    "Lib/site-packages/snowballstemmer/turkish_stemmer.py",
+    "Lib/site-packages/snowballstemmer/yiddish_stemmer.py",
+    ".nonadmin",
+    "Lib/site-packages/snowballstemmer/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/snowballstemmer/__pycache__/among.cpython-312.pyc",
+    "Lib/site-packages/snowballstemmer/__pycache__/arabic_stemmer.cpython-312.pyc",
+    "Lib/site-packages/snowballstemmer/__pycache__/armenian_stemmer.cpython-312.pyc",
+    "Lib/site-packages/snowballstemmer/__pycache__/basestemmer.cpython-312.pyc",
+    "Lib/site-packages/snowballstemmer/__pycache__/basque_stemmer.cpython-312.pyc",
+    "Lib/site-packages/snowballstemmer/__pycache__/catalan_stemmer.cpython-312.pyc",
+    "Lib/site-packages/snowballstemmer/__pycache__/danish_stemmer.cpython-312.pyc",
+    "Lib/site-packages/snowballstemmer/__pycache__/dutch_stemmer.cpython-312.pyc",
+    "Lib/site-packages/snowballstemmer/__pycache__/english_stemmer.cpython-312.pyc",
+    "Lib/site-packages/snowballstemmer/__pycache__/finnish_stemmer.cpython-312.pyc",
+    "Lib/site-packages/snowballstemmer/__pycache__/french_stemmer.cpython-312.pyc",
+    "Lib/site-packages/snowballstemmer/__pycache__/german_stemmer.cpython-312.pyc",
+    "Lib/site-packages/snowballstemmer/__pycache__/greek_stemmer.cpython-312.pyc",
+    "Lib/site-packages/snowballstemmer/__pycache__/hindi_stemmer.cpython-312.pyc",
+    "Lib/site-packages/snowballstemmer/__pycache__/hungarian_stemmer.cpython-312.pyc",
+    "Lib/site-packages/snowballstemmer/__pycache__/indonesian_stemmer.cpython-312.pyc",
+    "Lib/site-packages/snowballstemmer/__pycache__/irish_stemmer.cpython-312.pyc",
+    "Lib/site-packages/snowballstemmer/__pycache__/italian_stemmer.cpython-312.pyc",
+    "Lib/site-packages/snowballstemmer/__pycache__/lithuanian_stemmer.cpython-312.pyc",
+    "Lib/site-packages/snowballstemmer/__pycache__/nepali_stemmer.cpython-312.pyc",
+    "Lib/site-packages/snowballstemmer/__pycache__/norwegian_stemmer.cpython-312.pyc",
+    "Lib/site-packages/snowballstemmer/__pycache__/porter_stemmer.cpython-312.pyc",
+    "Lib/site-packages/snowballstemmer/__pycache__/portuguese_stemmer.cpython-312.pyc",
+    "Lib/site-packages/snowballstemmer/__pycache__/romanian_stemmer.cpython-312.pyc",
+    "Lib/site-packages/snowballstemmer/__pycache__/russian_stemmer.cpython-312.pyc",
+    "Lib/site-packages/snowballstemmer/__pycache__/serbian_stemmer.cpython-312.pyc",
+    "Lib/site-packages/snowballstemmer/__pycache__/spanish_stemmer.cpython-312.pyc",
+    "Lib/site-packages/snowballstemmer/__pycache__/swedish_stemmer.cpython-312.pyc",
+    "Lib/site-packages/snowballstemmer/__pycache__/tamil_stemmer.cpython-312.pyc",
+    "Lib/site-packages/snowballstemmer/__pycache__/turkish_stemmer.cpython-312.pyc",
+    "Lib/site-packages/snowballstemmer/__pycache__/yiddish_stemmer.cpython-312.pyc"
+  ],
+  "fn": "snowballstemmer-2.2.0-pyhd3eb1b0_0.conda",
+  "license": "BSD-3-Clause",
+  "link": {
+    "source": "C:\\Users\\Arafat Shishir\\anaconda3\\pkgs\\snowballstemmer-2.2.0-pyhd3eb1b0_0",
+    "type": 1
+  },
+  "md5": "c8c10f2cd854c0a27630760958bba60c",
+  "name": "snowballstemmer",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\Users\\Arafat Shishir\\anaconda3\\pkgs\\snowballstemmer-2.2.0-pyhd3eb1b0_0.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/snowballstemmer/__pycache__/__init__.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/snowballstemmer/__pycache__/among.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/snowballstemmer/__pycache__/arabic_stemmer.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/snowballstemmer/__pycache__/armenian_stemmer.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/snowballstemmer/__pycache__/basestemmer.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/snowballstemmer/__pycache__/basque_stemmer.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/snowballstemmer/__pycache__/catalan_stemmer.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/snowballstemmer/__pycache__/danish_stemmer.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/snowballstemmer/__pycache__/dutch_stemmer.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/snowballstemmer/__pycache__/english_stemmer.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/snowballstemmer/__pycache__/finnish_stemmer.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/snowballstemmer/__pycache__/french_stemmer.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/snowballstemmer/__pycache__/german_stemmer.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/snowballstemmer/__pycache__/greek_stemmer.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/snowballstemmer/__pycache__/hindi_stemmer.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/snowballstemmer/__pycache__/hungarian_stemmer.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/snowballstemmer/__pycache__/indonesian_stemmer.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/snowballstemmer/__pycache__/irish_stemmer.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/snowballstemmer/__pycache__/italian_stemmer.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/snowballstemmer/__pycache__/lithuanian_stemmer.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/snowballstemmer/__pycache__/nepali_stemmer.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/snowballstemmer/__pycache__/norwegian_stemmer.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/snowballstemmer/__pycache__/porter_stemmer.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/snowballstemmer/__pycache__/portuguese_stemmer.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/snowballstemmer/__pycache__/romanian_stemmer.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/snowballstemmer/__pycache__/russian_stemmer.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/snowballstemmer/__pycache__/serbian_stemmer.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/snowballstemmer/__pycache__/spanish_stemmer.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/snowballstemmer/__pycache__/swedish_stemmer.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/snowballstemmer/__pycache__/tamil_stemmer.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/snowballstemmer/__pycache__/turkish_stemmer.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/snowballstemmer/__pycache__/yiddish_stemmer.cpython-312.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/noarch::snowballstemmer==2.2.0=pyhd3eb1b0_0[md5=c8c10f2cd854c0a27630760958bba60c]",
+  "sha256": "4bf87350cb5e65746802eade943b5fa9decfa922f76ca8ca8ae3aa91ab967852",
+  "size": 62692,
+  "subdir": "noarch",
+  "timestamp": 1637937107000,
+  "url": "https://repo.anaconda.com/pkgs/main/noarch/snowballstemmer-2.2.0-pyhd3eb1b0_0.conda",
+  "version": "2.2.0"
+}

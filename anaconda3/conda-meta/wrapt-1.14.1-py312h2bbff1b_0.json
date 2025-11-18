@@ -1,0 +1,54 @@
+{
+  "build": "py312h2bbff1b_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.12,<3.13.0a0",
+    "vc >=14.1,<15.0a0",
+    "vs2015_runtime >=14.16.27012,<15.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\Arafat Shishir\\anaconda3\\pkgs\\wrapt-1.14.1-py312h2bbff1b_0",
+  "files": [
+    "Lib/site-packages/wrapt-1.14.1.dist-info/INSTALLER",
+    "Lib/site-packages/wrapt-1.14.1.dist-info/LICENSE",
+    "Lib/site-packages/wrapt-1.14.1.dist-info/METADATA",
+    "Lib/site-packages/wrapt-1.14.1.dist-info/RECORD",
+    "Lib/site-packages/wrapt-1.14.1.dist-info/REQUESTED",
+    "Lib/site-packages/wrapt-1.14.1.dist-info/WHEEL",
+    "Lib/site-packages/wrapt-1.14.1.dist-info/direct_url.json",
+    "Lib/site-packages/wrapt-1.14.1.dist-info/top_level.txt",
+    "Lib/site-packages/wrapt/__init__.py",
+    "Lib/site-packages/wrapt/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/wrapt/__pycache__/arguments.cpython-312.pyc",
+    "Lib/site-packages/wrapt/__pycache__/decorators.cpython-312.pyc",
+    "Lib/site-packages/wrapt/__pycache__/importer.cpython-312.pyc",
+    "Lib/site-packages/wrapt/__pycache__/wrappers.cpython-312.pyc",
+    "Lib/site-packages/wrapt/_wrappers.cp312-win_amd64.pyd",
+    "Lib/site-packages/wrapt/arguments.py",
+    "Lib/site-packages/wrapt/decorators.py",
+    "Lib/site-packages/wrapt/importer.py",
+    "Lib/site-packages/wrapt/wrappers.py",
+    ".nonadmin"
+  ],
+  "fn": "wrapt-1.14.1-py312h2bbff1b_0.conda",
+  "license": "BSD-2-Clause",
+  "link": {
+    "source": "C:\\Users\\Arafat Shishir\\anaconda3\\pkgs\\wrapt-1.14.1-py312h2bbff1b_0",
+    "type": 1
+  },
+  "md5": "b076b5363533037739e358671a93ceea",
+  "name": "wrapt",
+  "package_tarball_full_path": "C:\\Users\\Arafat Shishir\\anaconda3\\pkgs\\wrapt-1.14.1-py312h2bbff1b_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/win-64::wrapt==1.14.1=py312h2bbff1b_0[md5=b076b5363533037739e358671a93ceea]",
+  "sha256": "bfb8f6e0b9708d2329d3e765f6962f8594070b2b8162e25b2bd6359d04094ba0",
+  "size": 56429,
+  "subdir": "win-64",
+  "timestamp": 1699480268000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/wrapt-1.14.1-py312h2bbff1b_0.conda",
+  "version": "1.14.1"
+}

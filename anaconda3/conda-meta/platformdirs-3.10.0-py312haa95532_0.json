@@ -1,0 +1,57 @@
+{
+  "build": "py312haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.12,<3.13.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\Arafat Shishir\\anaconda3\\pkgs\\platformdirs-3.10.0-py312haa95532_0",
+  "files": [
+    "Lib/site-packages/platformdirs-3.10.0.dist-info/INSTALLER",
+    "Lib/site-packages/platformdirs-3.10.0.dist-info/METADATA",
+    "Lib/site-packages/platformdirs-3.10.0.dist-info/RECORD",
+    "Lib/site-packages/platformdirs-3.10.0.dist-info/REQUESTED",
+    "Lib/site-packages/platformdirs-3.10.0.dist-info/WHEEL",
+    "Lib/site-packages/platformdirs-3.10.0.dist-info/direct_url.json",
+    "Lib/site-packages/platformdirs-3.10.0.dist-info/licenses/LICENSE",
+    "Lib/site-packages/platformdirs/__init__.py",
+    "Lib/site-packages/platformdirs/__main__.py",
+    "Lib/site-packages/platformdirs/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/platformdirs/__pycache__/__main__.cpython-312.pyc",
+    "Lib/site-packages/platformdirs/__pycache__/android.cpython-312.pyc",
+    "Lib/site-packages/platformdirs/__pycache__/api.cpython-312.pyc",
+    "Lib/site-packages/platformdirs/__pycache__/macos.cpython-312.pyc",
+    "Lib/site-packages/platformdirs/__pycache__/unix.cpython-312.pyc",
+    "Lib/site-packages/platformdirs/__pycache__/version.cpython-312.pyc",
+    "Lib/site-packages/platformdirs/__pycache__/windows.cpython-312.pyc",
+    "Lib/site-packages/platformdirs/android.py",
+    "Lib/site-packages/platformdirs/api.py",
+    "Lib/site-packages/platformdirs/macos.py",
+    "Lib/site-packages/platformdirs/py.typed",
+    "Lib/site-packages/platformdirs/unix.py",
+    "Lib/site-packages/platformdirs/version.py",
+    "Lib/site-packages/platformdirs/windows.py",
+    ".nonadmin"
+  ],
+  "fn": "platformdirs-3.10.0-py312haa95532_0.conda",
+  "license": "MIT",
+  "link": {
+    "source": "C:\\Users\\Arafat Shishir\\anaconda3\\pkgs\\platformdirs-3.10.0-py312haa95532_0",
+    "type": 1
+  },
+  "md5": "21714abfa08e1d6e0435b9768ead622a",
+  "name": "platformdirs",
+  "package_tarball_full_path": "C:\\Users\\Arafat Shishir\\anaconda3\\pkgs\\platformdirs-3.10.0-py312haa95532_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/win-64::platformdirs==3.10.0=py312haa95532_0[md5=21714abfa08e1d6e0435b9768ead622a]",
+  "sha256": "1b68c148b85b0274e58f933797c22e706aecbac2ac02df7e6d32b0db187d8b8d",
+  "size": 38361,
+  "subdir": "win-64",
+  "timestamp": 1701797416000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/platformdirs-3.10.0-py312haa95532_0.conda",
+  "version": "3.10.0"
+}

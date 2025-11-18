@@ -1,0 +1,7 @@
+[intake.drivers]
+csv = intake.source.csv:CSVSource
+jsonfiles = intake.source.jsonfiles:JSONFileSource
+ndzarr = intake.source.zarr:ZarrArraySource
+numpy = intake.source.npy:NPySource
+textfiles = intake.source.textfiles:TextFilesSource
+tiled_cat = intake.source.tiled:TiledCatalog

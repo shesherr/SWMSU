@@ -1,0 +1,69 @@
+{
+  "build": "py312haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [
+    "cryptography >=3.4.0"
+  ],
+  "depends": [
+    "python >=3.12,<3.13.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\Arafat Shishir\\anaconda3\\pkgs\\pyjwt-2.8.0-py312haa95532_0",
+  "files": [
+    "Lib/site-packages/PyJWT-2.8.0.dist-info/AUTHORS.rst",
+    "Lib/site-packages/PyJWT-2.8.0.dist-info/INSTALLER",
+    "Lib/site-packages/PyJWT-2.8.0.dist-info/LICENSE",
+    "Lib/site-packages/PyJWT-2.8.0.dist-info/METADATA",
+    "Lib/site-packages/PyJWT-2.8.0.dist-info/RECORD",
+    "Lib/site-packages/PyJWT-2.8.0.dist-info/REQUESTED",
+    "Lib/site-packages/PyJWT-2.8.0.dist-info/WHEEL",
+    "Lib/site-packages/PyJWT-2.8.0.dist-info/direct_url.json",
+    "Lib/site-packages/PyJWT-2.8.0.dist-info/top_level.txt",
+    "Lib/site-packages/jwt/__init__.py",
+    "Lib/site-packages/jwt/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/jwt/__pycache__/algorithms.cpython-312.pyc",
+    "Lib/site-packages/jwt/__pycache__/api_jwk.cpython-312.pyc",
+    "Lib/site-packages/jwt/__pycache__/api_jws.cpython-312.pyc",
+    "Lib/site-packages/jwt/__pycache__/api_jwt.cpython-312.pyc",
+    "Lib/site-packages/jwt/__pycache__/exceptions.cpython-312.pyc",
+    "Lib/site-packages/jwt/__pycache__/help.cpython-312.pyc",
+    "Lib/site-packages/jwt/__pycache__/jwk_set_cache.cpython-312.pyc",
+    "Lib/site-packages/jwt/__pycache__/jwks_client.cpython-312.pyc",
+    "Lib/site-packages/jwt/__pycache__/types.cpython-312.pyc",
+    "Lib/site-packages/jwt/__pycache__/utils.cpython-312.pyc",
+    "Lib/site-packages/jwt/__pycache__/warnings.cpython-312.pyc",
+    "Lib/site-packages/jwt/algorithms.py",
+    "Lib/site-packages/jwt/api_jwk.py",
+    "Lib/site-packages/jwt/api_jws.py",
+    "Lib/site-packages/jwt/api_jwt.py",
+    "Lib/site-packages/jwt/exceptions.py",
+    "Lib/site-packages/jwt/help.py",
+    "Lib/site-packages/jwt/jwk_set_cache.py",
+    "Lib/site-packages/jwt/jwks_client.py",
+    "Lib/site-packages/jwt/py.typed",
+    "Lib/site-packages/jwt/types.py",
+    "Lib/site-packages/jwt/utils.py",
+    "Lib/site-packages/jwt/warnings.py",
+    ".nonadmin"
+  ],
+  "fn": "pyjwt-2.8.0-py312haa95532_0.conda",
+  "license": "MIT",
+  "link": {
+    "source": "C:\\Users\\Arafat Shishir\\anaconda3\\pkgs\\pyjwt-2.8.0-py312haa95532_0",
+    "type": 1
+  },
+  "md5": "bf0b0d4d0d7007e8ee0e3c5900d0c736",
+  "name": "pyjwt",
+  "package_tarball_full_path": "C:\\Users\\Arafat Shishir\\anaconda3\\pkgs\\pyjwt-2.8.0-py312haa95532_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/win-64::pyjwt==2.8.0=py312haa95532_0[md5=bf0b0d4d0d7007e8ee0e3c5900d0c736]",
+  "sha256": "2d30c7ff28de17665fc595be30db6961d802d5e8a774f318ce294ff3e7b26c3f",
+  "size": 87063,
+  "subdir": "win-64",
+  "timestamp": 1715095229000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/pyjwt-2.8.0-py312haa95532_0.conda",
+  "version": "2.8.0"
+}

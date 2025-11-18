@@ -1,0 +1,54 @@
+{
+  "build": "py312h4fc1ca9_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "cffi >=1.11",
+    "python >=3.12,<3.13.0a0",
+    "vc >=14.2,<15.0a0",
+    "vs2015_runtime >=14.29.30133,<15.0a0",
+    "zstd >=1.5.6,<1.5.7.0a0",
+    "zstd >=1.5.6,<1.6.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\Arafat Shishir\\anaconda3\\pkgs\\zstandard-0.23.0-py312h4fc1ca9_0",
+  "files": [
+    "Lib/site-packages/zstandard-0.23.0.dist-info/INSTALLER",
+    "Lib/site-packages/zstandard-0.23.0.dist-info/LICENSE",
+    "Lib/site-packages/zstandard-0.23.0.dist-info/METADATA",
+    "Lib/site-packages/zstandard-0.23.0.dist-info/RECORD",
+    "Lib/site-packages/zstandard-0.23.0.dist-info/REQUESTED",
+    "Lib/site-packages/zstandard-0.23.0.dist-info/WHEEL",
+    "Lib/site-packages/zstandard-0.23.0.dist-info/direct_url.json",
+    "Lib/site-packages/zstandard-0.23.0.dist-info/top_level.txt",
+    "Lib/site-packages/zstandard/__init__.py",
+    "Lib/site-packages/zstandard/__init__.pyi",
+    "Lib/site-packages/zstandard/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/zstandard/__pycache__/backend_cffi.cpython-312.pyc",
+    "Lib/site-packages/zstandard/_cffi.cp312-win_amd64.pyd",
+    "Lib/site-packages/zstandard/backend_c.cp312-win_amd64.pyd",
+    "Lib/site-packages/zstandard/backend_cffi.py",
+    "Lib/site-packages/zstandard/py.typed",
+    ".nonadmin"
+  ],
+  "fn": "zstandard-0.23.0-py312h4fc1ca9_0.conda",
+  "license": "BSD-3-Clause",
+  "link": {
+    "source": "C:\\Users\\Arafat Shishir\\anaconda3\\pkgs\\zstandard-0.23.0-py312h4fc1ca9_0",
+    "type": 1
+  },
+  "md5": "a8b8fcf057573fae512a355daabc3031",
+  "name": "zstandard",
+  "package_tarball_full_path": "C:\\Users\\Arafat Shishir\\anaconda3\\pkgs\\zstandard-0.23.0-py312h4fc1ca9_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/win-64::zstandard==0.23.0=py312h4fc1ca9_0[md5=a8b8fcf057573fae512a355daabc3031]",
+  "sha256": "5781289a06f225cfeab3f837b3589e7af6c48ff1e40c658a36a1d33e9b51c5d6",
+  "size": 360812,
+  "subdir": "win-64",
+  "timestamp": 1728569296000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/zstandard-0.23.0-py312h4fc1ca9_0.conda",
+  "version": "0.23.0"
+}

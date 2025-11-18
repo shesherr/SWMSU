@@ -1,0 +1,16 @@
+2025/11/14-21:43:46.179 1040 Reusing MANIFEST C:\Users\Arafat Shishir\.TurboVPN\EBWebView\Default\IndexedDB\https_turbovpn.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/11/14-21:43:46.180 1040 Recovering log #8
+2025/11/14-21:43:46.181 1040 Reusing old log C:\Users\Arafat Shishir\.TurboVPN\EBWebView\Default\IndexedDB\https_turbovpn.com_0.indexeddb.leveldb/000008.log 
+2025/11/14-21:43:46.182 1040 Delete type=2 #7
+2025/11/14-21:43:46.195 1040 Level-0 table #13: started
+2025/11/14-21:43:46.199 1040 Level-0 table #13: 3548 bytes OK
+2025/11/14-21:43:46.202 1040 Delete type=0 #8
+2025/11/14-21:43:46.203 2e40 Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at '\x00\x05\x00\x00\x05' @ 176 : 1
+2025/11/14-21:43:46.203 2e40 Compacting 1@0 + 1@1 files
+2025/11/14-21:43:46.205 2e40 Generated table #14@0: 65 keys, 1898 bytes
+2025/11/14-21:43:46.205 2e40 Compacted 1@0 + 1@1 files => 1898 bytes
+2025/11/14-21:43:46.207 2e40 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/11/14-21:43:46.208 2e40 Delete type=2 #13
+2025/11/14-21:43:46.208 2e40 Manual compaction at level-0 from '\x00\x05\x00\x00\x05' @ 176 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/11/14-21:43:48.602 66c Manual compaction at level-0 from '\x00\x06\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/11/14-21:43:48.614 1040 Manual compaction at level-0 from '\x00\x07\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at (end)

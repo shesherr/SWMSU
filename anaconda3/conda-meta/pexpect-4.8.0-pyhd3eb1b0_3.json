@@ -1,0 +1,136 @@
+{
+  "build": "pyhd3eb1b0_3",
+  "build_number": 3,
+  "channel": "https://repo.anaconda.com/pkgs/main/noarch",
+  "constrains": [],
+  "depends": [
+    "ptyprocess >=0.5",
+    "python"
+  ],
+  "extracted_package_dir": "C:\\Users\\Arafat Shishir\\anaconda3\\pkgs\\pexpect-4.8.0-pyhd3eb1b0_3",
+  "files": [
+    "Lib/site-packages/pexpect-4.8.0.dist-info/INSTALLER",
+    "Lib/site-packages/pexpect-4.8.0.dist-info/LICENSE",
+    "Lib/site-packages/pexpect-4.8.0.dist-info/METADATA",
+    "Lib/site-packages/pexpect-4.8.0.dist-info/RECORD",
+    "Lib/site-packages/pexpect-4.8.0.dist-info/REQUESTED",
+    "Lib/site-packages/pexpect-4.8.0.dist-info/WHEEL",
+    "Lib/site-packages/pexpect-4.8.0.dist-info/direct_url.json",
+    "Lib/site-packages/pexpect-4.8.0.dist-info/top_level.txt",
+    "Lib/site-packages/pexpect/ANSI.py",
+    "Lib/site-packages/pexpect/FSM.py",
+    "Lib/site-packages/pexpect/__init__.py",
+    "Lib/site-packages/pexpect/_async.py",
+    "Lib/site-packages/pexpect/bashrc.sh",
+    "Lib/site-packages/pexpect/exceptions.py",
+    "Lib/site-packages/pexpect/expect.py",
+    "Lib/site-packages/pexpect/fdpexpect.py",
+    "Lib/site-packages/pexpect/popen_spawn.py",
+    "Lib/site-packages/pexpect/pty_spawn.py",
+    "Lib/site-packages/pexpect/pxssh.py",
+    "Lib/site-packages/pexpect/replwrap.py",
+    "Lib/site-packages/pexpect/run.py",
+    "Lib/site-packages/pexpect/screen.py",
+    "Lib/site-packages/pexpect/spawnbase.py",
+    "Lib/site-packages/pexpect/utils.py",
+    ".nonadmin",
+    "Lib/site-packages/pexpect/__pycache__/ANSI.cpython-312.pyc",
+    "Lib/site-packages/pexpect/__pycache__/FSM.cpython-312.pyc",
+    "Lib/site-packages/pexpect/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/pexpect/__pycache__/_async.cpython-312.pyc",
+    "Lib/site-packages/pexpect/__pycache__/exceptions.cpython-312.pyc",
+    "Lib/site-packages/pexpect/__pycache__/expect.cpython-312.pyc",
+    "Lib/site-packages/pexpect/__pycache__/fdpexpect.cpython-312.pyc",
+    "Lib/site-packages/pexpect/__pycache__/popen_spawn.cpython-312.pyc",
+    "Lib/site-packages/pexpect/__pycache__/pty_spawn.cpython-312.pyc",
+    "Lib/site-packages/pexpect/__pycache__/pxssh.cpython-312.pyc",
+    "Lib/site-packages/pexpect/__pycache__/replwrap.cpython-312.pyc",
+    "Lib/site-packages/pexpect/__pycache__/run.cpython-312.pyc",
+    "Lib/site-packages/pexpect/__pycache__/screen.cpython-312.pyc",
+    "Lib/site-packages/pexpect/__pycache__/spawnbase.cpython-312.pyc",
+    "Lib/site-packages/pexpect/__pycache__/utils.cpython-312.pyc"
+  ],
+  "fn": "pexpect-4.8.0-pyhd3eb1b0_3.conda",
+  "license": "ISC",
+  "link": {
+    "source": "C:\\Users\\Arafat Shishir\\anaconda3\\pkgs\\pexpect-4.8.0-pyhd3eb1b0_3",
+    "type": 1
+  },
+  "md5": "765b2562d6cdd14bb6d44fc170a04331",
+  "name": "pexpect",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\Users\\Arafat Shishir\\anaconda3\\pkgs\\pexpect-4.8.0-pyhd3eb1b0_3.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/pexpect/__pycache__/ANSI.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pexpect/__pycache__/FSM.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pexpect/__pycache__/__init__.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pexpect/__pycache__/_async.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pexpect/__pycache__/exceptions.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pexpect/__pycache__/expect.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pexpect/__pycache__/fdpexpect.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pexpect/__pycache__/popen_spawn.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pexpect/__pycache__/pty_spawn.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pexpect/__pycache__/pxssh.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pexpect/__pycache__/replwrap.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pexpect/__pycache__/run.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pexpect/__pycache__/screen.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pexpect/__pycache__/spawnbase.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/pexpect/__pycache__/utils.cpython-312.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/noarch::pexpect==4.8.0=pyhd3eb1b0_3[md5=765b2562d6cdd14bb6d44fc170a04331]",
+  "sha256": "fb4b14fdb5e57becda5b8b88b453626ce12edb49fc8cec88ddaea40b52277494",
+  "size": 53770,
+  "subdir": "noarch",
+  "timestamp": 1605563236000,
+  "url": "https://repo.anaconda.com/pkgs/main/noarch/pexpect-4.8.0-pyhd3eb1b0_3.conda",
+  "version": "4.8.0"
+}

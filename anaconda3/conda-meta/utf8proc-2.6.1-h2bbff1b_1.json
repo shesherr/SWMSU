@@ -1,0 +1,37 @@
+{
+  "build": "h2bbff1b_1",
+  "build_number": 1,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "vc >=14.1,<15.0a0",
+    "vs2015_runtime >=14.16.27012,<15.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\Arafat Shishir\\anaconda3\\pkgs\\utf8proc-2.6.1-h2bbff1b_1",
+  "files": [
+    "Library/bin/utf8proc.dll",
+    "Library/include/utf8proc.h",
+    "Library/lib/utf8proc.lib",
+    ".nonadmin"
+  ],
+  "fn": "utf8proc-2.6.1-h2bbff1b_1.conda",
+  "license": "MIT",
+  "link": {
+    "source": "C:\\Users\\Arafat Shishir\\anaconda3\\pkgs\\utf8proc-2.6.1-h2bbff1b_1",
+    "type": 1
+  },
+  "md5": "40018abfee1b87a22eb5dd705ef45f8c",
+  "name": "utf8proc",
+  "package_tarball_full_path": "C:\\Users\\Arafat Shishir\\anaconda3\\pkgs\\utf8proc-2.6.1-h2bbff1b_1.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/win-64::utf8proc==2.6.1=h2bbff1b_1[md5=40018abfee1b87a22eb5dd705ef45f8c]",
+  "sha256": "30a7fdd0b6d8bc0821b71c0ac0a99543af3c9fd75180255f1f6fd0388b8690a4",
+  "size": 98549,
+  "subdir": "win-64",
+  "timestamp": 1706894771000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/utf8proc-2.6.1-h2bbff1b_1.conda",
+  "version": "2.6.1"
+}

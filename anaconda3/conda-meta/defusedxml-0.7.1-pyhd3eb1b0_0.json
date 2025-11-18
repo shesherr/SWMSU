@@ -1,0 +1,110 @@
+{
+  "build": "pyhd3eb1b0_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/noarch",
+  "constrains": [],
+  "depends": [
+    "python"
+  ],
+  "extracted_package_dir": "C:\\Users\\Arafat Shishir\\anaconda3\\pkgs\\defusedxml-0.7.1-pyhd3eb1b0_0",
+  "files": [
+    "Lib/site-packages/defusedxml-0.7.1.dist-info/INSTALLER",
+    "Lib/site-packages/defusedxml-0.7.1.dist-info/LICENSE",
+    "Lib/site-packages/defusedxml-0.7.1.dist-info/METADATA",
+    "Lib/site-packages/defusedxml-0.7.1.dist-info/RECORD",
+    "Lib/site-packages/defusedxml-0.7.1.dist-info/REQUESTED",
+    "Lib/site-packages/defusedxml-0.7.1.dist-info/WHEEL",
+    "Lib/site-packages/defusedxml-0.7.1.dist-info/direct_url.json",
+    "Lib/site-packages/defusedxml-0.7.1.dist-info/top_level.txt",
+    "Lib/site-packages/defusedxml/ElementTree.py",
+    "Lib/site-packages/defusedxml/__init__.py",
+    "Lib/site-packages/defusedxml/cElementTree.py",
+    "Lib/site-packages/defusedxml/common.py",
+    "Lib/site-packages/defusedxml/expatbuilder.py",
+    "Lib/site-packages/defusedxml/expatreader.py",
+    "Lib/site-packages/defusedxml/lxml.py",
+    "Lib/site-packages/defusedxml/minidom.py",
+    "Lib/site-packages/defusedxml/pulldom.py",
+    "Lib/site-packages/defusedxml/sax.py",
+    "Lib/site-packages/defusedxml/xmlrpc.py",
+    ".nonadmin",
+    "Lib/site-packages/defusedxml/__pycache__/ElementTree.cpython-312.pyc",
+    "Lib/site-packages/defusedxml/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/defusedxml/__pycache__/cElementTree.cpython-312.pyc",
+    "Lib/site-packages/defusedxml/__pycache__/common.cpython-312.pyc",
+    "Lib/site-packages/defusedxml/__pycache__/expatbuilder.cpython-312.pyc",
+    "Lib/site-packages/defusedxml/__pycache__/expatreader.cpython-312.pyc",
+    "Lib/site-packages/defusedxml/__pycache__/lxml.cpython-312.pyc",
+    "Lib/site-packages/defusedxml/__pycache__/minidom.cpython-312.pyc",
+    "Lib/site-packages/defusedxml/__pycache__/pulldom.cpython-312.pyc",
+    "Lib/site-packages/defusedxml/__pycache__/sax.cpython-312.pyc",
+    "Lib/site-packages/defusedxml/__pycache__/xmlrpc.cpython-312.pyc"
+  ],
+  "fn": "defusedxml-0.7.1-pyhd3eb1b0_0.conda",
+  "license": "PSF 2.0",
+  "link": {
+    "source": "C:\\Users\\Arafat Shishir\\anaconda3\\pkgs\\defusedxml-0.7.1-pyhd3eb1b0_0",
+    "type": 1
+  },
+  "md5": "d912068b0729930972adcaac338882c0",
+  "name": "defusedxml",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\Users\\Arafat Shishir\\anaconda3\\pkgs\\defusedxml-0.7.1-pyhd3eb1b0_0.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/defusedxml/__pycache__/ElementTree.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/defusedxml/__pycache__/__init__.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/defusedxml/__pycache__/cElementTree.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/defusedxml/__pycache__/common.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/defusedxml/__pycache__/expatbuilder.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/defusedxml/__pycache__/expatreader.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/defusedxml/__pycache__/lxml.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/defusedxml/__pycache__/minidom.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/defusedxml/__pycache__/pulldom.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/defusedxml/__pycache__/sax.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/defusedxml/__pycache__/xmlrpc.cpython-312.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/noarch::defusedxml==0.7.1=pyhd3eb1b0_0[md5=d912068b0729930972adcaac338882c0]",
+  "sha256": "d5ccad2e614ba3f953c202a42270fe0cfdaf6c5071311a3accf28446c49a6c5b",
+  "size": 23826,
+  "subdir": "noarch",
+  "timestamp": 1615228158000,
+  "url": "https://repo.anaconda.com/pkgs/main/noarch/defusedxml-0.7.1-pyhd3eb1b0_0.conda",
+  "version": "0.7.1"
+}

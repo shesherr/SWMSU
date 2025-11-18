@@ -1,0 +1,52 @@
+{
+  "build": "py312haa95532_1",
+  "build_number": 1,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.12,<3.13.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\Arafat Shishir\\anaconda3\\pkgs\\ply-3.11-py312haa95532_1",
+  "files": [
+    "Lib/site-packages/ply-3.11.dist-info/INSTALLER",
+    "Lib/site-packages/ply-3.11.dist-info/METADATA",
+    "Lib/site-packages/ply-3.11.dist-info/RECORD",
+    "Lib/site-packages/ply-3.11.dist-info/REQUESTED",
+    "Lib/site-packages/ply-3.11.dist-info/WHEEL",
+    "Lib/site-packages/ply-3.11.dist-info/direct_url.json",
+    "Lib/site-packages/ply-3.11.dist-info/top_level.txt",
+    "Lib/site-packages/ply/__init__.py",
+    "Lib/site-packages/ply/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/ply/__pycache__/cpp.cpython-312.pyc",
+    "Lib/site-packages/ply/__pycache__/ctokens.cpython-312.pyc",
+    "Lib/site-packages/ply/__pycache__/lex.cpython-312.pyc",
+    "Lib/site-packages/ply/__pycache__/yacc.cpython-312.pyc",
+    "Lib/site-packages/ply/__pycache__/ygen.cpython-312.pyc",
+    "Lib/site-packages/ply/cpp.py",
+    "Lib/site-packages/ply/ctokens.py",
+    "Lib/site-packages/ply/lex.py",
+    "Lib/site-packages/ply/yacc.py",
+    "Lib/site-packages/ply/ygen.py",
+    ".nonadmin"
+  ],
+  "fn": "ply-3.11-py312haa95532_1.conda",
+  "license": "BSD-3-clause",
+  "link": {
+    "source": "C:\\Users\\Arafat Shishir\\anaconda3\\pkgs\\ply-3.11-py312haa95532_1",
+    "type": 1
+  },
+  "md5": "852da75b21b8b49ee624843b1631e140",
+  "name": "ply",
+  "package_tarball_full_path": "C:\\Users\\Arafat Shishir\\anaconda3\\pkgs\\ply-3.11-py312haa95532_1.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/win-64::ply==3.11=py312haa95532_1[md5=852da75b21b8b49ee624843b1631e140]",
+  "sha256": "067e2da80cfeb0ed998cabaac9ff98f5bd52f9212c1c7a2d2915978492644cfb",
+  "size": 110716,
+  "subdir": "win-64",
+  "timestamp": 1699474019000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/ply-3.11-py312haa95532_1.conda",
+  "version": "3.11"
+}

@@ -1,0 +1,20 @@
+2025/11/09-05:01:15.693 5480 Creating DB C:\Users\Arafat Shishir\.TurboVPN\EBWebView\Default\IndexedDB\https_turbovpn.com_0.indexeddb.leveldb since it was missing.
+2025/11/09-05:01:15.706 5480 Reusing MANIFEST C:\Users\Arafat Shishir\.TurboVPN\EBWebView\Default\IndexedDB\https_turbovpn.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/11/09-05:01:15.830 5480 Level-0 table #5: started
+2025/11/09-05:01:15.834 5480 Level-0 table #5: 770 bytes OK
+2025/11/09-05:01:15.838 5480 Delete type=0 #3
+2025/11/09-05:01:15.840 4750 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/11/09-05:01:17.767 4750 Level-0 table #7: started
+2025/11/09-05:01:17.771 4750 Level-0 table #7: 1480 bytes OK
+2025/11/09-05:01:17.776 4750 Delete type=0 #4
+2025/11/09-05:01:17.777 4750 Manual compaction at level-0 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/11/09-05:01:17.818 4750 Level-0 table #9: started
+2025/11/09-05:01:17.821 4750 Level-0 table #9: 498 bytes OK
+2025/11/09-05:01:17.824 4750 Delete type=0 #6
+2025/11/09-05:01:17.825 4750 Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at '\x00\x04\x00\x00\x05' @ 110 : 0
+2025/11/09-05:01:17.825 4750 Compacting 1@0 + 1@1 files
+2025/11/09-05:01:17.827 4750 Generated table #10@0: 43 keys, 1107 bytes
+2025/11/09-05:01:17.827 4750 Compacted 1@0 + 1@1 files => 1107 bytes
+2025/11/09-05:01:17.830 4750 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/11/09-05:01:17.831 4750 Delete type=2 #9
+2025/11/09-05:01:17.833 4750 Manual compaction at level-0 from '\x00\x04\x00\x00\x05' @ 110 : 0 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)

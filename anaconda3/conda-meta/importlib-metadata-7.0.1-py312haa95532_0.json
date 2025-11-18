@@ -1,0 +1,63 @@
+{
+  "build": "py312haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.12,<3.13.0a0",
+    "zipp >=0.5"
+  ],
+  "extracted_package_dir": "C:\\Users\\Arafat Shishir\\anaconda3\\pkgs\\importlib-metadata-7.0.1-py312haa95532_0",
+  "files": [
+    "Lib/site-packages/importlib_metadata-7.0.1.dist-info/INSTALLER",
+    "Lib/site-packages/importlib_metadata-7.0.1.dist-info/LICENSE",
+    "Lib/site-packages/importlib_metadata-7.0.1.dist-info/METADATA",
+    "Lib/site-packages/importlib_metadata-7.0.1.dist-info/RECORD",
+    "Lib/site-packages/importlib_metadata-7.0.1.dist-info/REQUESTED",
+    "Lib/site-packages/importlib_metadata-7.0.1.dist-info/WHEEL",
+    "Lib/site-packages/importlib_metadata-7.0.1.dist-info/direct_url.json",
+    "Lib/site-packages/importlib_metadata-7.0.1.dist-info/top_level.txt",
+    "Lib/site-packages/importlib_metadata/__init__.py",
+    "Lib/site-packages/importlib_metadata/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/importlib_metadata/__pycache__/_adapters.cpython-312.pyc",
+    "Lib/site-packages/importlib_metadata/__pycache__/_collections.cpython-312.pyc",
+    "Lib/site-packages/importlib_metadata/__pycache__/_compat.cpython-312.pyc",
+    "Lib/site-packages/importlib_metadata/__pycache__/_functools.cpython-312.pyc",
+    "Lib/site-packages/importlib_metadata/__pycache__/_itertools.cpython-312.pyc",
+    "Lib/site-packages/importlib_metadata/__pycache__/_meta.cpython-312.pyc",
+    "Lib/site-packages/importlib_metadata/__pycache__/_py39compat.cpython-312.pyc",
+    "Lib/site-packages/importlib_metadata/__pycache__/_text.cpython-312.pyc",
+    "Lib/site-packages/importlib_metadata/__pycache__/diagnose.cpython-312.pyc",
+    "Lib/site-packages/importlib_metadata/_adapters.py",
+    "Lib/site-packages/importlib_metadata/_collections.py",
+    "Lib/site-packages/importlib_metadata/_compat.py",
+    "Lib/site-packages/importlib_metadata/_functools.py",
+    "Lib/site-packages/importlib_metadata/_itertools.py",
+    "Lib/site-packages/importlib_metadata/_meta.py",
+    "Lib/site-packages/importlib_metadata/_py39compat.py",
+    "Lib/site-packages/importlib_metadata/_text.py",
+    "Lib/site-packages/importlib_metadata/diagnose.py",
+    "Lib/site-packages/importlib_metadata/py.typed",
+    ".nonadmin"
+  ],
+  "fn": "importlib-metadata-7.0.1-py312haa95532_0.conda",
+  "license": "Apache-2.0",
+  "link": {
+    "source": "C:\\Users\\Arafat Shishir\\anaconda3\\pkgs\\importlib-metadata-7.0.1-py312haa95532_0",
+    "type": 1
+  },
+  "md5": "f5477f72f93e702d1e6cd8c20cb69aeb",
+  "name": "importlib-metadata",
+  "package_tarball_full_path": "C:\\Users\\Arafat Shishir\\anaconda3\\pkgs\\importlib-metadata-7.0.1-py312haa95532_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/win-64::importlib-metadata==7.0.1=py312haa95532_0[md5=f5477f72f93e702d1e6cd8c20cb69aeb]",
+  "sha256": "cc6a5fe723b1c3aec19f1319c6555b0f92b252778e41f42805b45ab758173de0",
+  "size": 48777,
+  "subdir": "win-64",
+  "timestamp": 1704813754000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/importlib-metadata-7.0.1-py312haa95532_0.conda",
+  "version": "7.0.1"
+}

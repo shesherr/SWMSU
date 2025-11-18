@@ -1,0 +1,59 @@
+{
+  "build": "py312haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.12,<3.13.0a0",
+    "pywinpty >=1.1.0",
+    "tornado >=6.1.0"
+  ],
+  "extracted_package_dir": "C:\\Users\\Arafat Shishir\\anaconda3\\pkgs\\terminado-0.17.1-py312haa95532_0",
+  "files": [
+    "Lib/site-packages/terminado-0.17.1.dist-info/INSTALLER",
+    "Lib/site-packages/terminado-0.17.1.dist-info/METADATA",
+    "Lib/site-packages/terminado-0.17.1.dist-info/RECORD",
+    "Lib/site-packages/terminado-0.17.1.dist-info/REQUESTED",
+    "Lib/site-packages/terminado-0.17.1.dist-info/WHEEL",
+    "Lib/site-packages/terminado-0.17.1.dist-info/direct_url.json",
+    "Lib/site-packages/terminado-0.17.1.dist-info/licenses/LICENSE",
+    "Lib/site-packages/terminado/__init__.py",
+    "Lib/site-packages/terminado/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/terminado/__pycache__/_version.cpython-312.pyc",
+    "Lib/site-packages/terminado/__pycache__/management.cpython-312.pyc",
+    "Lib/site-packages/terminado/__pycache__/uimodule.cpython-312.pyc",
+    "Lib/site-packages/terminado/__pycache__/websocket.cpython-312.pyc",
+    "Lib/site-packages/terminado/_static/terminado.js",
+    "Lib/site-packages/terminado/_version.py",
+    "Lib/site-packages/terminado/management.py",
+    "Lib/site-packages/terminado/py.typed",
+    "Lib/site-packages/terminado/tests/__init__.py",
+    "Lib/site-packages/terminado/tests/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/terminado/tests/__pycache__/basic_test.cpython-312.pyc",
+    "Lib/site-packages/terminado/tests/basic_test.py",
+    "Lib/site-packages/terminado/uimod_embed.js",
+    "Lib/site-packages/terminado/uimodule.py",
+    "Lib/site-packages/terminado/websocket.py",
+    ".nonadmin"
+  ],
+  "fn": "terminado-0.17.1-py312haa95532_0.conda",
+  "license": "BSD-2-Clause",
+  "link": {
+    "source": "C:\\Users\\Arafat Shishir\\anaconda3\\pkgs\\terminado-0.17.1-py312haa95532_0",
+    "type": 1
+  },
+  "md5": "eeb82c55904c18e78f5ae5e8d574a486",
+  "name": "terminado",
+  "package_tarball_full_path": "C:\\Users\\Arafat Shishir\\anaconda3\\pkgs\\terminado-0.17.1-py312haa95532_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/win-64::terminado==0.17.1=py312haa95532_0[md5=eeb82c55904c18e78f5ae5e8d574a486]",
+  "sha256": "8b8d07402f1921fc36400e7cf950abf2ed1d3ec7c3cd7aa9988a3f50f809cf15",
+  "size": 38677,
+  "subdir": "win-64",
+  "timestamp": 1699545090000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/terminado-0.17.1-py312haa95532_0.conda",
+  "version": "0.17.1"
+}

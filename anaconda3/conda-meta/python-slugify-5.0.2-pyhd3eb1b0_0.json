@@ -1,0 +1,77 @@
+{
+  "build": "pyhd3eb1b0_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/noarch",
+  "constrains": [],
+  "depends": [
+    "python >=3.6",
+    "text-unidecode >=1.3",
+    "unidecode >=1.1.1"
+  ],
+  "extracted_package_dir": "C:\\Users\\Arafat Shishir\\anaconda3\\pkgs\\python-slugify-5.0.2-pyhd3eb1b0_0",
+  "files": [
+    "Lib/site-packages/python_slugify-5.0.2.dist-info/INSTALLER",
+    "Lib/site-packages/python_slugify-5.0.2.dist-info/LICENSE",
+    "Lib/site-packages/python_slugify-5.0.2.dist-info/METADATA",
+    "Lib/site-packages/python_slugify-5.0.2.dist-info/RECORD",
+    "Lib/site-packages/python_slugify-5.0.2.dist-info/REQUESTED",
+    "Lib/site-packages/python_slugify-5.0.2.dist-info/WHEEL",
+    "Lib/site-packages/python_slugify-5.0.2.dist-info/direct_url.json",
+    "Lib/site-packages/python_slugify-5.0.2.dist-info/entry_points.txt",
+    "Lib/site-packages/python_slugify-5.0.2.dist-info/top_level.txt",
+    "Lib/site-packages/slugify/__init__.py",
+    "Lib/site-packages/slugify/__main__.py",
+    "Lib/site-packages/slugify/slugify.py",
+    "Lib/site-packages/slugify/special.py",
+    ".nonadmin",
+    "Lib/site-packages/slugify/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/slugify/__pycache__/__main__.cpython-312.pyc",
+    "Lib/site-packages/slugify/__pycache__/slugify.cpython-312.pyc",
+    "Lib/site-packages/slugify/__pycache__/special.cpython-312.pyc",
+    "Scripts/slugify-script.py",
+    "Scripts/slugify.exe"
+  ],
+  "fn": "python-slugify-5.0.2-pyhd3eb1b0_0.conda",
+  "license": "MIT",
+  "link": {
+    "source": "C:\\Users\\Arafat Shishir\\anaconda3\\pkgs\\python-slugify-5.0.2-pyhd3eb1b0_0",
+    "type": 1
+  },
+  "md5": "b2725de307e073b9344af3f2dde66f41",
+  "name": "python-slugify",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\Users\\Arafat Shishir\\anaconda3\\pkgs\\python-slugify-5.0.2-pyhd3eb1b0_0.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/slugify/__pycache__/__init__.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/slugify/__pycache__/__main__.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/slugify/__pycache__/slugify.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/slugify/__pycache__/special.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Scripts/slugify-script.py",
+        "path_type": "windows_python_entry_point_script"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/noarch::python-slugify==5.0.2=pyhd3eb1b0_0[md5=b2725de307e073b9344af3f2dde66f41]",
+  "sha256": "4e719d231cf77fdc24ad1d9c2ca013abbd62cc0fb94f2fc5bacf58b41bdd698b",
+  "size": 13101,
+  "subdir": "noarch",
+  "timestamp": 1620405712000,
+  "url": "https://repo.anaconda.com/pkgs/main/noarch/python-slugify-5.0.2-pyhd3eb1b0_0.conda",
+  "version": "5.0.2"
+}

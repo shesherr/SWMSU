@@ -1,0 +1,93 @@
+{
+  "build": "pyhd3eb1b0_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/noarch",
+  "constrains": [],
+  "depends": [
+    "libarchive",
+    "python"
+  ],
+  "extracted_package_dir": "C:\\Users\\Arafat Shishir\\anaconda3\\pkgs\\python-libarchive-c-5.1-pyhd3eb1b0_0",
+  "files": [
+    "Lib/site-packages/libarchive/__init__.py",
+    "Lib/site-packages/libarchive/entry.py",
+    "Lib/site-packages/libarchive/exception.py",
+    "Lib/site-packages/libarchive/extract.py",
+    "Lib/site-packages/libarchive/ffi.py",
+    "Lib/site-packages/libarchive/flags.py",
+    "Lib/site-packages/libarchive/read.py",
+    "Lib/site-packages/libarchive/write.py",
+    "Lib/site-packages/libarchive_c-5.1.dist-info/INSTALLER",
+    "Lib/site-packages/libarchive_c-5.1.dist-info/LICENSE.md",
+    "Lib/site-packages/libarchive_c-5.1.dist-info/METADATA",
+    "Lib/site-packages/libarchive_c-5.1.dist-info/RECORD",
+    "Lib/site-packages/libarchive_c-5.1.dist-info/REQUESTED",
+    "Lib/site-packages/libarchive_c-5.1.dist-info/WHEEL",
+    "Lib/site-packages/libarchive_c-5.1.dist-info/direct_url.json",
+    "Lib/site-packages/libarchive_c-5.1.dist-info/top_level.txt",
+    ".nonadmin",
+    "Lib/site-packages/libarchive/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/libarchive/__pycache__/entry.cpython-312.pyc",
+    "Lib/site-packages/libarchive/__pycache__/exception.cpython-312.pyc",
+    "Lib/site-packages/libarchive/__pycache__/extract.cpython-312.pyc",
+    "Lib/site-packages/libarchive/__pycache__/ffi.cpython-312.pyc",
+    "Lib/site-packages/libarchive/__pycache__/flags.cpython-312.pyc",
+    "Lib/site-packages/libarchive/__pycache__/read.cpython-312.pyc",
+    "Lib/site-packages/libarchive/__pycache__/write.cpython-312.pyc"
+  ],
+  "fn": "python-libarchive-c-5.1-pyhd3eb1b0_0.conda",
+  "license": "CC0-1.0",
+  "link": {
+    "source": "C:\\Users\\Arafat Shishir\\anaconda3\\pkgs\\python-libarchive-c-5.1-pyhd3eb1b0_0",
+    "type": 1
+  },
+  "md5": "7952606fde014b712cc9ff33622921bf",
+  "name": "python-libarchive-c",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\Users\\Arafat Shishir\\anaconda3\\pkgs\\python-libarchive-c-5.1-pyhd3eb1b0_0.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/libarchive/__pycache__/__init__.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/libarchive/__pycache__/entry.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/libarchive/__pycache__/exception.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/libarchive/__pycache__/extract.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/libarchive/__pycache__/ffi.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/libarchive/__pycache__/flags.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/libarchive/__pycache__/read.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/libarchive/__pycache__/write.cpython-312.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/noarch::python-libarchive-c==5.1=pyhd3eb1b0_0[md5=7952606fde014b712cc9ff33622921bf]",
+  "sha256": "3b0dcc31171a7a2eed3440228ad9e8b44f6b3a63bcfeb4507f5928c24db5355f",
+  "size": 50783,
+  "subdir": "noarch",
+  "timestamp": 1726069825000,
+  "url": "https://repo.anaconda.com/pkgs/main/noarch/python-libarchive-c-5.1-pyhd3eb1b0_0.conda",
+  "version": "5.1"
+}

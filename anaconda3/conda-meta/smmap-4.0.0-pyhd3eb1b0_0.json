@@ -1,0 +1,105 @@
+{
+  "build": "pyhd3eb1b0_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/noarch",
+  "constrains": [],
+  "depends": [
+    "python"
+  ],
+  "extracted_package_dir": "C:\\Users\\Arafat Shishir\\anaconda3\\pkgs\\smmap-4.0.0-pyhd3eb1b0_0",
+  "files": [
+    "Lib/site-packages/smmap-4.0.0.dist-info/INSTALLER",
+    "Lib/site-packages/smmap-4.0.0.dist-info/LICENSE",
+    "Lib/site-packages/smmap-4.0.0.dist-info/METADATA",
+    "Lib/site-packages/smmap-4.0.0.dist-info/RECORD",
+    "Lib/site-packages/smmap-4.0.0.dist-info/REQUESTED",
+    "Lib/site-packages/smmap-4.0.0.dist-info/WHEEL",
+    "Lib/site-packages/smmap-4.0.0.dist-info/direct_url.json",
+    "Lib/site-packages/smmap-4.0.0.dist-info/top_level.txt",
+    "Lib/site-packages/smmap-4.0.0.dist-info/zip-safe",
+    "Lib/site-packages/smmap/__init__.py",
+    "Lib/site-packages/smmap/buf.py",
+    "Lib/site-packages/smmap/mman.py",
+    "Lib/site-packages/smmap/test/__init__.py",
+    "Lib/site-packages/smmap/test/lib.py",
+    "Lib/site-packages/smmap/test/test_buf.py",
+    "Lib/site-packages/smmap/test/test_mman.py",
+    "Lib/site-packages/smmap/test/test_tutorial.py",
+    "Lib/site-packages/smmap/test/test_util.py",
+    "Lib/site-packages/smmap/util.py",
+    ".nonadmin",
+    "Lib/site-packages/smmap/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/smmap/__pycache__/buf.cpython-312.pyc",
+    "Lib/site-packages/smmap/__pycache__/mman.cpython-312.pyc",
+    "Lib/site-packages/smmap/test/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/smmap/test/__pycache__/lib.cpython-312.pyc",
+    "Lib/site-packages/smmap/test/__pycache__/test_buf.cpython-312.pyc",
+    "Lib/site-packages/smmap/test/__pycache__/test_mman.cpython-312.pyc",
+    "Lib/site-packages/smmap/test/__pycache__/test_tutorial.cpython-312.pyc",
+    "Lib/site-packages/smmap/test/__pycache__/test_util.cpython-312.pyc",
+    "Lib/site-packages/smmap/__pycache__/util.cpython-312.pyc"
+  ],
+  "fn": "smmap-4.0.0-pyhd3eb1b0_0.conda",
+  "license": "BSD-3-Clause",
+  "link": {
+    "source": "C:\\Users\\Arafat Shishir\\anaconda3\\pkgs\\smmap-4.0.0-pyhd3eb1b0_0",
+    "type": 1
+  },
+  "md5": "ea22ec22100b09799aa81f3e3ef9fa87",
+  "name": "smmap",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\Users\\Arafat Shishir\\anaconda3\\pkgs\\smmap-4.0.0-pyhd3eb1b0_0.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/smmap/__pycache__/__init__.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/smmap/__pycache__/buf.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/smmap/__pycache__/mman.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/smmap/test/__pycache__/__init__.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/smmap/test/__pycache__/lib.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/smmap/test/__pycache__/test_buf.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/smmap/test/__pycache__/test_mman.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/smmap/test/__pycache__/test_tutorial.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/smmap/test/__pycache__/test_util.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/smmap/__pycache__/util.cpython-312.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/noarch::smmap==4.0.0=pyhd3eb1b0_0[md5=ea22ec22100b09799aa81f3e3ef9fa87]",
+  "sha256": "acbc91bc422b20d0476fdf8b0f8c2481c8cfd1d9bd1490da98a25d36d93ce0af",
+  "size": 23891,
+  "subdir": "noarch",
+  "timestamp": 1611694466000,
+  "url": "https://repo.anaconda.com/pkgs/main/noarch/smmap-4.0.0-pyhd3eb1b0_0.conda",
+  "version": "4.0.0"
+}

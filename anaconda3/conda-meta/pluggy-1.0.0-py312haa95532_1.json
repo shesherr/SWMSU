@@ -1,0 +1,55 @@
+{
+  "build": "py312haa95532_1",
+  "build_number": 1,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.12,<3.13.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\Arafat Shishir\\anaconda3\\pkgs\\pluggy-1.0.0-py312haa95532_1",
+  "files": [
+    "Lib/site-packages/pluggy-1.0.0.dist-info/INSTALLER",
+    "Lib/site-packages/pluggy-1.0.0.dist-info/LICENSE",
+    "Lib/site-packages/pluggy-1.0.0.dist-info/METADATA",
+    "Lib/site-packages/pluggy-1.0.0.dist-info/RECORD",
+    "Lib/site-packages/pluggy-1.0.0.dist-info/REQUESTED",
+    "Lib/site-packages/pluggy-1.0.0.dist-info/WHEEL",
+    "Lib/site-packages/pluggy-1.0.0.dist-info/direct_url.json",
+    "Lib/site-packages/pluggy-1.0.0.dist-info/top_level.txt",
+    "Lib/site-packages/pluggy/__init__.py",
+    "Lib/site-packages/pluggy/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/pluggy/__pycache__/_callers.cpython-312.pyc",
+    "Lib/site-packages/pluggy/__pycache__/_hooks.cpython-312.pyc",
+    "Lib/site-packages/pluggy/__pycache__/_manager.cpython-312.pyc",
+    "Lib/site-packages/pluggy/__pycache__/_result.cpython-312.pyc",
+    "Lib/site-packages/pluggy/__pycache__/_tracing.cpython-312.pyc",
+    "Lib/site-packages/pluggy/__pycache__/_version.cpython-312.pyc",
+    "Lib/site-packages/pluggy/_callers.py",
+    "Lib/site-packages/pluggy/_hooks.py",
+    "Lib/site-packages/pluggy/_manager.py",
+    "Lib/site-packages/pluggy/_result.py",
+    "Lib/site-packages/pluggy/_tracing.py",
+    "Lib/site-packages/pluggy/_version.py",
+    ".nonadmin"
+  ],
+  "fn": "pluggy-1.0.0-py312haa95532_1.conda",
+  "license": "MIT",
+  "link": {
+    "source": "C:\\Users\\Arafat Shishir\\anaconda3\\pkgs\\pluggy-1.0.0-py312haa95532_1",
+    "type": 1
+  },
+  "md5": "a035f6bc79b4bd1fd4d7b99effa5b643",
+  "name": "pluggy",
+  "package_tarball_full_path": "C:\\Users\\Arafat Shishir\\anaconda3\\pkgs\\pluggy-1.0.0-py312haa95532_1.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/win-64::pluggy==1.0.0=py312haa95532_1[md5=a035f6bc79b4bd1fd4d7b99effa5b643]",
+  "sha256": "1ca060372c1b8f49093ff70433ed40bf1e70af94031c56e8428d6b22833bd5a1",
+  "size": 32794,
+  "subdir": "win-64",
+  "timestamp": 1699472525000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/pluggy-1.0.0-py312haa95532_1.conda",
+  "version": "1.0.0"
+}

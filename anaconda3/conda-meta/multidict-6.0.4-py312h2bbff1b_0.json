@@ -1,0 +1,56 @@
+{
+  "build": "py312h2bbff1b_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.12,<3.13.0a0",
+    "vc >=14.1,<15.0a0",
+    "vs2015_runtime >=14.16.27012,<15.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\Arafat Shishir\\anaconda3\\pkgs\\multidict-6.0.4-py312h2bbff1b_0",
+  "files": [
+    "Lib/site-packages/multidict-6.0.4.dist-info/INSTALLER",
+    "Lib/site-packages/multidict-6.0.4.dist-info/LICENSE",
+    "Lib/site-packages/multidict-6.0.4.dist-info/METADATA",
+    "Lib/site-packages/multidict-6.0.4.dist-info/RECORD",
+    "Lib/site-packages/multidict-6.0.4.dist-info/REQUESTED",
+    "Lib/site-packages/multidict-6.0.4.dist-info/WHEEL",
+    "Lib/site-packages/multidict-6.0.4.dist-info/direct_url.json",
+    "Lib/site-packages/multidict-6.0.4.dist-info/top_level.txt",
+    "Lib/site-packages/multidict/__init__.py",
+    "Lib/site-packages/multidict/__init__.pyi",
+    "Lib/site-packages/multidict/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/multidict/__pycache__/_abc.cpython-312.pyc",
+    "Lib/site-packages/multidict/__pycache__/_compat.cpython-312.pyc",
+    "Lib/site-packages/multidict/__pycache__/_multidict_base.cpython-312.pyc",
+    "Lib/site-packages/multidict/__pycache__/_multidict_py.cpython-312.pyc",
+    "Lib/site-packages/multidict/_abc.py",
+    "Lib/site-packages/multidict/_compat.py",
+    "Lib/site-packages/multidict/_multidict.cp312-win_amd64.pyd",
+    "Lib/site-packages/multidict/_multidict_base.py",
+    "Lib/site-packages/multidict/_multidict_py.py",
+    "Lib/site-packages/multidict/py.typed",
+    ".nonadmin"
+  ],
+  "fn": "multidict-6.0.4-py312h2bbff1b_0.conda",
+  "license": "Apache-2.0",
+  "link": {
+    "source": "C:\\Users\\Arafat Shishir\\anaconda3\\pkgs\\multidict-6.0.4-py312h2bbff1b_0",
+    "type": 1
+  },
+  "md5": "f81c9a773cb5bef2524f5ab8eb55914c",
+  "name": "multidict",
+  "package_tarball_full_path": "C:\\Users\\Arafat Shishir\\anaconda3\\pkgs\\multidict-6.0.4-py312h2bbff1b_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/win-64::multidict==6.0.4=py312h2bbff1b_0[md5=f81c9a773cb5bef2524f5ab8eb55914c]",
+  "sha256": "12b535308d8b6b04ce5bec2902763778d999a0b3e07a59e3e880b0925cfee9bc",
+  "size": 55205,
+  "subdir": "win-64",
+  "timestamp": 1701097972000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/multidict-6.0.4-py312h2bbff1b_0.conda",
+  "version": "6.0.4"
+}

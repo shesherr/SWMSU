@@ -1,0 +1,55 @@
+{
+  "build": "py312haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.12,<3.13.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\Arafat Shishir\\anaconda3\\pkgs\\soupsieve-2.5-py312haa95532_0",
+  "files": [
+    "Lib/site-packages/soupsieve-2.5.dist-info/INSTALLER",
+    "Lib/site-packages/soupsieve-2.5.dist-info/METADATA",
+    "Lib/site-packages/soupsieve-2.5.dist-info/RECORD",
+    "Lib/site-packages/soupsieve-2.5.dist-info/REQUESTED",
+    "Lib/site-packages/soupsieve-2.5.dist-info/WHEEL",
+    "Lib/site-packages/soupsieve-2.5.dist-info/direct_url.json",
+    "Lib/site-packages/soupsieve-2.5.dist-info/licenses/LICENSE.md",
+    "Lib/site-packages/soupsieve/__init__.py",
+    "Lib/site-packages/soupsieve/__meta__.py",
+    "Lib/site-packages/soupsieve/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/soupsieve/__pycache__/__meta__.cpython-312.pyc",
+    "Lib/site-packages/soupsieve/__pycache__/css_match.cpython-312.pyc",
+    "Lib/site-packages/soupsieve/__pycache__/css_parser.cpython-312.pyc",
+    "Lib/site-packages/soupsieve/__pycache__/css_types.cpython-312.pyc",
+    "Lib/site-packages/soupsieve/__pycache__/pretty.cpython-312.pyc",
+    "Lib/site-packages/soupsieve/__pycache__/util.cpython-312.pyc",
+    "Lib/site-packages/soupsieve/css_match.py",
+    "Lib/site-packages/soupsieve/css_parser.py",
+    "Lib/site-packages/soupsieve/css_types.py",
+    "Lib/site-packages/soupsieve/pretty.py",
+    "Lib/site-packages/soupsieve/py.typed",
+    "Lib/site-packages/soupsieve/util.py",
+    ".nonadmin"
+  ],
+  "fn": "soupsieve-2.5-py312haa95532_0.conda",
+  "license": "MIT",
+  "link": {
+    "source": "C:\\Users\\Arafat Shishir\\anaconda3\\pkgs\\soupsieve-2.5-py312haa95532_0",
+    "type": 1
+  },
+  "md5": "bfc7b40f6d0534a92f154035cf840960",
+  "name": "soupsieve",
+  "package_tarball_full_path": "C:\\Users\\Arafat Shishir\\anaconda3\\pkgs\\soupsieve-2.5-py312haa95532_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/win-64::soupsieve==2.5=py312haa95532_0[md5=bfc7b40f6d0534a92f154035cf840960]",
+  "sha256": "3832a6febb6e9c3909a2b1596059c9c52689f8b15b67ce66d3dab0a9dadc3c14",
+  "size": 88030,
+  "subdir": "win-64",
+  "timestamp": 1699496633000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/soupsieve-2.5-py312haa95532_0.conda",
+  "version": "2.5"
+}

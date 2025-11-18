@@ -1,0 +1,52 @@
+{
+  "build": "py312haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "jupyterlab >=3,<5",
+    "python >=3.12,<3.13.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\Arafat Shishir\\anaconda3\\pkgs\\jupyterlab-variableinspector-3.1.0-py312haa95532_0",
+  "files": [
+    "Lib/site-packages/lckr_jupyterlab_variableinspector-3.1.0.dist-info/INSTALLER",
+    "Lib/site-packages/lckr_jupyterlab_variableinspector-3.1.0.dist-info/METADATA",
+    "Lib/site-packages/lckr_jupyterlab_variableinspector-3.1.0.dist-info/RECORD",
+    "Lib/site-packages/lckr_jupyterlab_variableinspector-3.1.0.dist-info/REQUESTED",
+    "Lib/site-packages/lckr_jupyterlab_variableinspector-3.1.0.dist-info/WHEEL",
+    "Lib/site-packages/lckr_jupyterlab_variableinspector-3.1.0.dist-info/direct_url.json",
+    "Lib/site-packages/lckr_jupyterlab_variableinspector-3.1.0.dist-info/licenses/LICENSE",
+    "Lib/site-packages/lckr_jupyterlab_variableinspector/__init__.py",
+    "Lib/site-packages/lckr_jupyterlab_variableinspector/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/lckr_jupyterlab_variableinspector/__pycache__/_version.cpython-312.pyc",
+    "Lib/site-packages/lckr_jupyterlab_variableinspector/_version.py",
+    "share/jupyter/labextensions/@lckr/jupyterlab_variableinspector/install.json",
+    "share/jupyter/labextensions/@lckr/jupyterlab_variableinspector/package.json",
+    "share/jupyter/labextensions/@lckr/jupyterlab_variableinspector/static/747.c283537d4b90b75837dd.js",
+    "share/jupyter/labextensions/@lckr/jupyterlab_variableinspector/static/803.734174c6f9bb29d6a498.js",
+    "share/jupyter/labextensions/@lckr/jupyterlab_variableinspector/static/remoteEntry.cfbccb113f4c7c1d65fe.js",
+    "share/jupyter/labextensions/@lckr/jupyterlab_variableinspector/static/style.js",
+    "share/jupyter/labextensions/@lckr/jupyterlab_variableinspector/static/third-party-licenses.json",
+    ".nonadmin"
+  ],
+  "fn": "jupyterlab-variableinspector-3.1.0-py312haa95532_0.conda",
+  "license": "BSD-3-Clause",
+  "link": {
+    "source": "C:\\Users\\Arafat Shishir\\anaconda3\\pkgs\\jupyterlab-variableinspector-3.1.0-py312haa95532_0",
+    "type": 1
+  },
+  "md5": "c2cd7331216a4c2f57841c14df15a6b3",
+  "name": "jupyterlab-variableinspector",
+  "package_tarball_full_path": "C:\\Users\\Arafat Shishir\\anaconda3\\pkgs\\jupyterlab-variableinspector-3.1.0-py312haa95532_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/win-64::jupyterlab-variableinspector==3.1.0=py312haa95532_0[md5=c2cd7331216a4c2f57841c14df15a6b3]",
+  "sha256": "25a3f170d58821395ced57fe15dc046376fe2a9698d95729fa996f1cd1d791e0",
+  "size": 25095,
+  "subdir": "win-64",
+  "timestamp": 1709167245000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/jupyterlab-variableinspector-3.1.0-py312haa95532_0.conda",
+  "version": "3.1.0"
+}

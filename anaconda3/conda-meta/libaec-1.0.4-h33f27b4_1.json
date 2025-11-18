@@ -1,0 +1,41 @@
+{
+  "build": "h33f27b4_1",
+  "build_number": 1,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "vc >=14.1,<15.0a0",
+    "vs2015_runtime >=14.16.27012,<15.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\Arafat Shishir\\anaconda3\\pkgs\\libaec-1.0.4-h33f27b4_1",
+  "files": [
+    "Library/bin/aec.dll",
+    "Library/bin/aec.exe",
+    "Library/bin/szip.dll",
+    "Library/include/libaec.h",
+    "Library/include/szlib.h",
+    "Library/lib/aec.lib",
+    "Library/lib/szip.lib",
+    ".nonadmin"
+  ],
+  "fn": "libaec-1.0.4-h33f27b4_1.conda",
+  "license": "BSD-2-Clause",
+  "link": {
+    "source": "C:\\Users\\Arafat Shishir\\anaconda3\\pkgs\\libaec-1.0.4-h33f27b4_1",
+    "type": 1
+  },
+  "md5": "3b59fc95d08728f77dcd579443a99e96",
+  "name": "libaec",
+  "package_tarball_full_path": "C:\\Users\\Arafat Shishir\\anaconda3\\pkgs\\libaec-1.0.4-h33f27b4_1.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/win-64::libaec==1.0.4=h33f27b4_1[md5=3b59fc95d08728f77dcd579443a99e96]",
+  "sha256": "1dea031e9772a804623cada39817e6d6789fb89a610d5b989131faee75aab401",
+  "size": 31397,
+  "subdir": "win-64",
+  "timestamp": 1593197296000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/libaec-1.0.4-h33f27b4_1.conda",
+  "version": "1.0.4"
+}

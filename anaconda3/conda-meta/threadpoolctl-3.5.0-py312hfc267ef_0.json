@@ -1,0 +1,42 @@
+{
+  "build": "py312hfc267ef_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.12,<3.13.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\Arafat Shishir\\anaconda3\\pkgs\\threadpoolctl-3.5.0-py312hfc267ef_0",
+  "files": [
+    "Lib/site-packages/__pycache__/threadpoolctl.cpython-312.pyc",
+    "Lib/site-packages/threadpoolctl-3.5.0.dist-info/INSTALLER",
+    "Lib/site-packages/threadpoolctl-3.5.0.dist-info/LICENSE",
+    "Lib/site-packages/threadpoolctl-3.5.0.dist-info/METADATA",
+    "Lib/site-packages/threadpoolctl-3.5.0.dist-info/RECORD",
+    "Lib/site-packages/threadpoolctl-3.5.0.dist-info/REQUESTED",
+    "Lib/site-packages/threadpoolctl-3.5.0.dist-info/WHEEL",
+    "Lib/site-packages/threadpoolctl-3.5.0.dist-info/direct_url.json",
+    "Lib/site-packages/threadpoolctl.py",
+    ".nonadmin"
+  ],
+  "fn": "threadpoolctl-3.5.0-py312hfc267ef_0.conda",
+  "license": "BSD-3-Clause",
+  "link": {
+    "source": "C:\\Users\\Arafat Shishir\\anaconda3\\pkgs\\threadpoolctl-3.5.0-py312hfc267ef_0",
+    "type": 1
+  },
+  "md5": "0ee5858a8582b07d49369ef015601b20",
+  "name": "threadpoolctl",
+  "package_tarball_full_path": "C:\\Users\\Arafat Shishir\\anaconda3\\pkgs\\threadpoolctl-3.5.0-py312hfc267ef_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/win-64::threadpoolctl==3.5.0=py312hfc267ef_0[md5=0ee5858a8582b07d49369ef015601b20]",
+  "sha256": "22fce848aa26137dbbd99941f6bfd2984683b691db2d8f9a033c190374e5fe55",
+  "size": 50146,
+  "subdir": "win-64",
+  "timestamp": 1719408040000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/threadpoolctl-3.5.0-py312hfc267ef_0.conda",
+  "version": "3.5.0"
+}

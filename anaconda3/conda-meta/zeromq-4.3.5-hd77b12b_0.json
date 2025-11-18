@@ -1,0 +1,60 @@
+{
+  "build": "hd77b12b_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "libsodium >=1.0.18,<1.0.19.0a0",
+    "vc >=14.1,<15.0a0",
+    "vs2015_runtime >=14.16.27012,<15.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\Arafat Shishir\\anaconda3\\pkgs\\zeromq-4.3.5-hd77b12b_0",
+  "files": [
+    "Library/bin/libzmq-mt-4_3_5.dll",
+    "Library/bin/libzmq.dll",
+    "Library/include/zmq.h",
+    "Library/include/zmq_utils.h",
+    "Library/lib/libzmq-mt-4_3_5.lib",
+    "Library/lib/libzmq-mt-s-4_3_5.lib",
+    "Library/lib/libzmq.lib",
+    "Library/lib/pkgconfig/libzmq.pc",
+    "Library/share/cmake/ZeroMQ/ZeroMQConfig.cmake",
+    "Library/share/cmake/ZeroMQ/ZeroMQConfigVersion.cmake",
+    "Library/share/cmake/ZeroMQ/ZeroMQTargets-release.cmake",
+    "Library/share/cmake/ZeroMQ/ZeroMQTargets.cmake",
+    "Library/share/zmq/AUTHORS.txt",
+    "Library/share/zmq/LICENSE.txt",
+    "Library/share/zmq/NEWS.txt",
+    ".nonadmin"
+  ],
+  "fn": "zeromq-4.3.5-hd77b12b_0.conda",
+  "license": "MPL-2.0",
+  "link": {
+    "source": "C:\\Users\\Arafat Shishir\\anaconda3\\pkgs\\zeromq-4.3.5-hd77b12b_0",
+    "type": 1
+  },
+  "md5": "08e2b53b6f40e3c3737948dbe957b1fe",
+  "name": "zeromq",
+  "package_tarball_full_path": "C:\\Users\\Arafat Shishir\\anaconda3\\pkgs\\zeromq-4.3.5-hd77b12b_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/lib/pkgconfig/libzmq.pc",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "C:/b/abs_4cyru7_wp3/croot/zeromq_1705601895956/_h_env",
+        "sha256": "61147b5e60756a08779e8a6558683e4acb500d2c234065a21f660ff758bec215",
+        "sha256_in_prefix": "8de0fee9609dce730e2b1212af5ab738f9db739a23f42dad864cdb809a451bfc",
+        "size_in_bytes": 459
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/win-64::zeromq==4.3.5=hd77b12b_0[md5=08e2b53b6f40e3c3737948dbe957b1fe]",
+  "sha256": "1c5f1d01892137ec205c5cf12e828eefb0d3874d8a60a1711502f10ed374b602",
+  "size": 5442340,
+  "subdir": "win-64",
+  "timestamp": 1705602328000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/zeromq-4.3.5-hd77b12b_0.conda",
+  "version": "4.3.5"
+}
